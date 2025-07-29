@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "boss",
+  "category": "building",
+  "pattern": [
+    " a ",
+    "bcd",
+    " e "
+  ],
+  "key": {
+    "a": {
+      "item": "terribletwo:the_orb"
+    },
+    "b": {
+      "item": "terribletwo:cringetanium"
+    },
+    "c": {
+      "item": "terribletwo:cosmic_kush"
+    },
+    "d": {
+      "item": "terribletwo:demon_core"
+    },
+    "e": {
+      "item": "terribletwo:crowbar"
+    }
+  },
+  "result": {
+    "id": "terribletwo:chamberof_han_solo",
+    "count": 1
+  }
+}

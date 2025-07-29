@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "terribletwo:dragon_egg_omelette"
+    },
+    "title": {
+      "translate": "advancements.the_motherof_all_omelettes.title"
+    },
+    "description": {
+      "translate": "advancements.the_motherof_all_omelettes.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "the_motherof_all_omelettes_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "terribletwo:transmutation"
+}

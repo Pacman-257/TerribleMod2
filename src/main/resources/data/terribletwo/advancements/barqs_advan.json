@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "id": "terribletwo:barqs"
+    },
+    "title": {
+      "translate": "advancements.barqs_advan.title"
+    },
+    "description": {
+      "translate": "advancements.barqs_advan.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "barqs_advan_0": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "terribletwo:barqs"
+          ]
+        }
+      }
+    }
+  },
+  "parent": "terribletwo:origins_adva"
+}

@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "id": "terribletwo:baboon_king_staff"
+    },
+    "title": {
+      "translate": "advancements.the_staffof_the_baboon_king.title"
+    },
+    "description": {
+      "translate": "advancements.the_staffof_the_baboon_king.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "the_staffof_the_baboon_king_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "terribletwo:baboon_king_staff"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "terribletwo:the_sunken_star"
+}

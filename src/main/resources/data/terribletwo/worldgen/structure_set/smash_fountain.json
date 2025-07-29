@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "terribletwo:smash_fountain",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 20,
+    "separation": 2,
+    "salt": 2070257261
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "rainking",
+  "category": "equipment",
+  "pattern": [
+    "a a",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "terribletwo:cringetanium"
+    }
+  },
+  "result": {
+    "id": "terribletwo:cringetanium_armor_armor_chestplate",
+    "count": 1
+  }
+}

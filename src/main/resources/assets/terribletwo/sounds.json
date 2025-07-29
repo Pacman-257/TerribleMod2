@@ -1,0 +1,2803 @@
+{
+  "soda": {
+    "subtitle": "subtitles.soda",
+    "sounds": [
+      {
+        "name": "terribletwo:joe-biden-soda",
+        "stream": false
+      }
+    ]
+  },
+  "draculaflow": {
+    "subtitle": "subtitles.draculaflow",
+    "sounds": [
+      {
+        "name": "terribletwo:y2mate.is_-_dracula_flow_3-n-7gbwkbxbq-192k-1700535580",
+        "stream": true
+      }
+    ]
+  },
+  "butialwayscomeback": {
+    "subtitle": "subtitles.butialwayscomeback",
+    "sounds": [
+      {
+        "name": "terribletwo:butialwayscomeback",
+        "stream": false
+      }
+    ]
+  },
+  "anthology": {
+    "subtitle": "subtitles.anthology",
+    "sounds": [
+      {
+        "name": "terribletwo:anthology",
+        "stream": true
+      }
+    ]
+  },
+  "gameover": {
+    "subtitle": "subtitles.gameover",
+    "sounds": [
+      {
+        "name": "terribletwo:game_over_tuberipper.com",
+        "stream": true
+      }
+    ]
+  },
+  "dah": {
+    "subtitle": "subtitles.dah",
+    "sounds": [
+      {
+        "name": "terribletwo:dah",
+        "stream": false
+      }
+    ]
+  },
+  "whatsup": {
+    "subtitle": "subtitles.whatsup",
+    "sounds": [
+      {
+        "name": "terribletwo:whatsup",
+        "stream": false
+      }
+    ]
+  },
+  "fireball": {
+    "subtitle": "subtitles.fireball",
+    "sounds": [
+      {
+        "name": "terribletwo:fireball",
+        "stream": false
+      }
+    ]
+  },
+  "hansoloalive": {
+    "subtitle": "subtitles.hansoloalive",
+    "sounds": [
+      {
+        "name": "terribletwo:wheresthefire",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:badfeeling",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:bringemon",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:blaster",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:nevertellmetheodds",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:noreward",
+        "stream": false
+      }
+    ]
+  },
+  "hansolohurt": {
+    "subtitle": "subtitles.hansolohurt",
+    "sounds": [
+      {
+        "name": "terribletwo:hurt1",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:hurt2",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:watchit",
+        "stream": false
+      }
+    ]
+  },
+  "hansolodeath": {
+    "subtitle": "subtitles.hansolodeath",
+    "sounds": [
+      {
+        "name": "terribletwo:old",
+        "stream": false
+      }
+    ]
+  },
+  "hansolospawn": {
+    "subtitle": "subtitles.hansolospawn",
+    "sounds": [
+      {
+        "name": "terribletwo:shorts",
+        "stream": false
+      }
+    ]
+  },
+  "blaster": {
+    "subtitle": "subtitles.blaster",
+    "sounds": [
+      {
+        "name": "terribletwo:blaster1",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:blaster2",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:blaster3",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:blaster4",
+        "stream": false
+      }
+    ]
+  },
+  "pullout44": {
+    "subtitle": "subtitles.pullout44",
+    "sounds": [
+      {
+        "name": "terribletwo:pullout",
+        "stream": false
+      }
+    ]
+  },
+  "wizardhurt": {
+    "subtitle": "subtitles.wizardhurt",
+    "sounds": [
+      {
+        "name": "terribletwo:hurthelp",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:hurt1v",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:hurt2w",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:hurt3w",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:hurt4w",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:greatheavens",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:hurt5w",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:hurtw6",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:hurt7w",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:hurt7",
+        "stream": false
+      }
+    ]
+  },
+  "deathw": {
+    "subtitle": "subtitles.deathw",
+    "sounds": [
+      {
+        "name": "terribletwo:deathw",
+        "stream": false
+      }
+    ]
+  },
+  "livew": {
+    "subtitle": "subtitles.livew",
+    "sounds": [
+      {
+        "name": "terribletwo:a6",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:a5",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:a4",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:a3",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:a2",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:a1",
+        "stream": false
+      }
+    ]
+  },
+  "swmgs": {
+    "subtitle": "subtitles.swmgs",
+    "sounds": [
+      {
+        "name": "terribletwo:shadowwizardmoneygang",
+        "stream": false
+      }
+    ]
+  },
+  "crit": {
+    "subtitle": "subtitles.crit",
+    "sounds": [
+      {
+        "name": "terribletwo:crit",
+        "stream": false
+      }
+    ]
+  },
+  "gunshot": {
+    "subtitle": "subtitles.gunshot",
+    "sounds": [
+      {
+        "name": "terribletwo:gun",
+        "stream": false
+      }
+    ]
+  },
+  "nuke": {
+    "subtitle": "subtitles.nuke",
+    "sounds": [
+      {
+        "name": "terribletwo:legalize",
+        "stream": false
+      }
+    ]
+  },
+  "money": {
+    "subtitle": "subtitles.money",
+    "sounds": [
+      {
+        "name": "terribletwo:cash",
+        "stream": false
+      }
+    ]
+  },
+  "shit": {
+    "subtitle": "subtitles.shit",
+    "sounds": [
+      {
+        "name": "terribletwo:shuit",
+        "stream": false
+      }
+    ]
+  },
+  "sneutral": {
+    "subtitle": "subtitles.sneutral",
+    "sounds": [
+      {
+        "name": "terribletwo:hotgarbage",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:swmg",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:worldwide",
+        "stream": false
+      }
+    ]
+  },
+  "germanmanlive": {
+    "subtitle": "subtitles.germanmanlive",
+    "sounds": [
+      {
+        "name": "terribletwo:only1",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:allburg",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:hamburger",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:lollipop",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:yes",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:argue",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:silly",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:whysay",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:suck",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:rude",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:hobos",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:walks",
+        "stream": false
+      }
+    ]
+  },
+  "hitgerman": {
+    "subtitle": "subtitles.hitgerman",
+    "sounds": [
+      {
+        "name": "terribletwo:hit2",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:hit1",
+        "stream": false
+      }
+    ]
+  },
+  "basketball": {
+    "subtitle": "subtitles.basketball",
+    "sounds": [
+      {
+        "name": "terribletwo:ytmp3.latmedia_mp3_violent_wet_dodgeball_sound_effect_probably_the_one_you_re_looking_for_",
+        "stream": false
+      }
+    ]
+  },
+  "shoesqueak": {
+    "subtitle": "subtitles.shoesqueak",
+    "sounds": [
+      {
+        "name": "terribletwo:s9",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:s8",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:s7",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:s6",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:s5",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:s4",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:s3",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:s2",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:s1",
+        "stream": false
+      }
+    ]
+  },
+  "godstheme": {
+    "subtitle": "subtitles.godstheme",
+    "sounds": [
+      {
+        "name": "terribletwo:godstheme",
+        "stream": false
+      }
+    ]
+  },
+  "brokencrit": {
+    "subtitle": "subtitles.brokencrit",
+    "sounds": [
+      {
+        "name": "terribletwo:brokencrit",
+        "stream": false
+      }
+    ]
+  },
+  "ourpletruhit": {
+    "sounds": [
+      {
+        "name": "terribletwo:ourpletruhit",
+        "stream": false
+      }
+    ]
+  },
+  "hlslive": {
+    "subtitle": "subtitles.hlslive",
+    "sounds": [
+      {
+        "name": "terribletwo:half-life-scientist-_big-day_-made-with-voicemod",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:half-life-scientist-greetings-made-with-voicemod",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:i-hope-that-odor-isnt-coming-from-you-made-with-voicemod",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:over-here-made-with-voicemod",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:perhaps-made-with-voicemod",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:theoretically-made-with-voicemod",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:yes-you-seem-like-someone-i-can-trust-made-with-voicemod",
+        "stream": false
+      }
+    ]
+  },
+  "hlshit": {
+    "subtitle": "subtitles.hlshit",
+    "sounds": [
+      {
+        "name": "terribletwo:sci_pain3",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:hl1scream",
+        "stream": false
+      }
+    ]
+  },
+  "hlsdeath": {
+    "subtitle": "subtitles.hlsdeath",
+    "sounds": [
+      {
+        "name": "terribletwo:half-life-1-scientist-screams-made-with-voicemod",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:sorry-im-leaving-now-made-with-voicemod",
+        "stream": false
+      }
+    ]
+  },
+  "gojopiano": {
+    "subtitle": "subtitles.gojopiano",
+    "sounds": [
+      {
+        "name": "terribletwo:hollow_purple__gojo_vs_tojijujutsu_kaisen_s2_ep4_piano_ost_zhou_shu_hui_zhan_",
+        "stream": false
+      }
+    ]
+  },
+  "hollowpurple": {
+    "subtitle": "subtitles.hollowpurple",
+    "sounds": [
+      {
+        "name": "terribletwo:hollow-purple",
+        "stream": false
+      }
+    ]
+  },
+  "rmliving": {
+    "subtitle": "subtitles.rmliving",
+    "sounds": [
+      {
+        "name": "terribletwo:horn",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:ytmp3.latmedia_mp3_smiling_friends_the_renaissance_mens_are_coming_to_town_really_soon",
+        "stream": false
+      }
+    ]
+  },
+  "rmhurt": {
+    "subtitle": "subtitles.rmhurt",
+    "sounds": [
+      {
+        "name": "terribletwo:brah",
+        "stream": false
+      }
+    ]
+  },
+  "newhp": {
+    "subtitle": "subtitles.newhp",
+    "sounds": [
+      {
+        "name": "terribletwo:hollow-purp4le",
+        "stream": false
+      }
+    ]
+  },
+  "timestop": {
+    "subtitle": "subtitles.timestop",
+    "sounds": [
+      {
+        "name": "terribletwo:timestop",
+        "stream": false
+      }
+    ]
+  },
+  "stopwatch": {
+    "subtitle": "subtitles.stopwatch",
+    "sounds": [
+      {
+        "name": "terribletwo:stopwatch",
+        "stream": false
+      }
+    ]
+  },
+  "timeresumes": {
+    "subtitle": "subtitles.timeresumes",
+    "sounds": [
+      {
+        "name": "terribletwo:timeresume",
+        "stream": false
+      }
+    ]
+  },
+  "vvloopers": {
+    "subtitle": "subtitles.vvloopers",
+    "sounds": [
+      {
+        "name": "terribletwo:vvloopers",
+        "stream": true
+      }
+    ]
+  },
+  "crowbarhit": {
+    "subtitle": "subtitles.crowbarhit",
+    "sounds": [
+      {
+        "name": "terribletwo:crowhit4",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:crowhit3",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:crowhit2",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:crowhit1",
+        "stream": false
+      }
+    ]
+  },
+  "goldcrowbarhit": {
+    "subtitle": "subtitles.goldcrowbarhit",
+    "sounds": [
+      {
+        "name": "terribletwo:goldenhit",
+        "stream": false
+      }
+    ]
+  },
+  "musket": {
+    "subtitle": "subtitles.musket",
+    "sounds": [
+      {
+        "name": "terribletwo:ytmp3.latmedia_mp3_real_musket_sound_effect_single_no_delay_",
+        "stream": false
+      }
+    ]
+  },
+  "frenchsounds": {
+    "subtitle": "subtitles.frenchsounds",
+    "sounds": [
+      {
+        "name": "terribletwo:france_song_3",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:france_song_4",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:france_song_5",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:france_song_1",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:france_song_2",
+        "stream": false
+      }
+    ]
+  },
+  "vvizarddeathtemp": {
+    "subtitle": "subtitles.vvizarddeathtemp",
+    "sounds": [
+      {
+        "name": "terribletwo:wizard",
+        "stream": false
+      }
+    ]
+  },
+  "soldierlines": {
+    "subtitle": "subtitles.soldierlines",
+    "sounds": [
+      {
+        "name": "terribletwo:spy_laughhappy02",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:spy_laughhappy03",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:spy_negativevocalization01",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:spy_negativevocalization02",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:spy_negativevocalization03",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:spy_negativevocalization04",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:spy_negativevocalization05",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:spy_negativevocalization07",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:spy_helpme02",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:spy_helpme01",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:spy_goodjob02",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:spy_goodjob03",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:spy_go03",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:spy_go02",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:spy_cheers08",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:spy_cheers07",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:spy_cheers06",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:spy_cheers01",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:spy_battlecry04",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:spy_battlecry01",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:spy_autodejectedtie03",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:spy_autodejectedtie02",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:spy_yes03",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:spy_yes02",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:spy_yes02_1",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:spy_yes01",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:spy_negativevocalization09",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:spy_negativevocalization08",
+        "stream": false
+      }
+    ]
+  },
+  "napoleonstheme": {
+    "subtitle": "subtitles.napoleonstheme",
+    "sounds": [
+      {
+        "name": "terribletwo:ytmp3.latmedia_mp3_there_is_nothing_we_can_do.._napoleon_song_amour_plastique_-_slowed_to_perfection_loop_",
+        "stream": false
+      }
+    ]
+  },
+  "soldierdeath": {
+    "subtitle": "subtitles.soldierdeath",
+    "sounds": [
+      {
+        "name": "terribletwo:spy_paincrticialdeath03",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:spy_paincrticialdeath02",
+        "stream": false
+      }
+    ]
+  },
+  "soldierhit": {
+    "subtitle": "subtitles.soldierhit",
+    "sounds": [
+      {
+        "name": "terribletwo:spy_painsevere01",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:spy_painsevere04",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:spy_painsevere03",
+        "stream": false
+      }
+    ]
+  },
+  "frenchtheme": {
+    "subtitle": "subtitles.frenchtheme",
+    "sounds": [
+      {
+        "name": "terribletwo:ytmp3.latmedia_mp3_france_s_most_stereotypical_music",
+        "stream": true
+      }
+    ]
+  },
+  "musketreload": {
+    "subtitle": "subtitles.musketreload",
+    "sounds": [
+      {
+        "name": "terribletwo:reload",
+        "stream": false
+      }
+    ]
+  },
+  "sunkenshine": {
+    "subtitle": "subtitles.sunkenshine",
+    "sounds": [
+      {
+        "name": "terribletwo:ssshine",
+        "stream": false
+      }
+    ]
+  },
+  "baboonliving": {
+    "subtitle": "subtitles.baboonliving",
+    "sounds": [
+      {
+        "name": "terribletwo:monkey1",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:monkey2",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:monkey3",
+        "stream": false
+      }
+    ]
+  },
+  "baboonhurt": {
+    "subtitle": "subtitles.baboonhurt",
+    "sounds": [
+      {
+        "name": "terribletwo:monkeyhurt3",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:monkeyhurt2",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:monkeyhurt1",
+        "stream": false
+      }
+    ]
+  },
+  "baboondead": {
+    "subtitle": "subtitles.baboondead",
+    "sounds": [
+      {
+        "name": "terribletwo:monkeyded",
+        "stream": false
+      }
+    ]
+  },
+  "power": {
+    "subtitle": "subtitles.power",
+    "sounds": [
+      {
+        "name": "terribletwo:power",
+        "stream": false
+      }
+    ]
+  },
+  "jumpscare": {
+    "subtitle": "subtitles.jumpscare",
+    "sounds": [
+      {
+        "name": "terribletwo:jumpscare",
+        "stream": false
+      }
+    ]
+  },
+  "freddystheme": {
+    "subtitle": "subtitles.freddystheme",
+    "sounds": [
+      {
+        "name": "terribletwo:ytmp3.latmedia_mp3_five_nights_at_freddy_s_1_song_-_the_living_tombstone",
+        "stream": false
+      }
+    ]
+  },
+  "harharhar": {
+    "sounds": [
+      {
+        "name": "terribletwo:fnaf-freddys-laugh",
+        "stream": false
+      }
+    ]
+  },
+  "freddystheme2": {
+    "subtitle": "subtitles.freddystheme2",
+    "sounds": [
+      {
+        "name": "terribletwo:ytmp3.latmedia_mp3_five_nights_at_freddy_s_2_song_-_the_living_tombstone_fnaf2_",
+        "stream": false
+      }
+    ]
+  },
+  "richtofen": {
+    "subtitle": "subtitles.richtofen",
+    "sounds": [
+      {
+        "name": "terribletwo:richtofen_doesnt_speak_japanese",
+        "stream": false
+      }
+    ]
+  },
+  "originsbook": {
+    "subtitle": "subtitles.originsbook",
+    "sounds": [
+      {
+        "name": "terribletwo:book2.rpgmvo",
+        "stream": false
+      }
+    ]
+  },
+  "nffnn": {
+    "subtitle": "subtitles.nffnn",
+    "sounds": [
+      {
+        "name": "terribletwo:nffnn",
+        "stream": true
+      }
+    ]
+  },
+  "mahabre": {
+    "subtitle": "subtitles.mahabre",
+    "sounds": [
+      {
+        "name": "terribletwo:mahabre",
+        "stream": false
+      }
+    ]
+  },
+  "susdeath": {
+    "subtitle": "subtitles.susdeath",
+    "sounds": [
+      {
+        "name": "terribletwo:susmongus_death_sound",
+        "stream": false
+      }
+    ]
+  },
+  "sushit": {
+    "subtitle": "subtitles.sushit",
+    "sounds": [
+      {
+        "name": "terribletwo:quick",
+        "stream": false
+      }
+    ]
+  },
+  "suslive": {
+    "subtitle": "subtitles.suslive",
+    "sounds": [
+      {
+        "name": "terribletwo:susmongus_amogus",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:susmongus_amongus_yell",
+        "stream": false
+      }
+    ]
+  },
+  "gonk": {
+    "subtitle": "subtitles.gonk",
+    "sounds": [
+      {
+        "name": "terribletwo:gonk_1",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:gonk_2",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:gonk_3",
+        "stream": false
+      }
+    ]
+  },
+  "beeggonk": {
+    "subtitle": "subtitles.beeggonk",
+    "sounds": [
+      {
+        "name": "terribletwo:beeg_gonk",
+        "stream": false
+      }
+    ]
+  },
+  "spearbase": {
+    "subtitle": "subtitles.spearbase",
+    "sounds": [
+      {
+        "name": "terribletwo:spearbase",
+        "stream": false
+      }
+    ]
+  },
+  "repair": {
+    "subtitle": "subtitles.repair",
+    "sounds": [
+      {
+        "name": "terribletwo:metal-slam-3-189785",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:metal-slam-4-189783",
+        "stream": false
+      }
+    ]
+  },
+  "calculusscream": {
+    "subtitle": "subtitles.calculusscream",
+    "sounds": [
+      {
+        "name": "terribletwo:calculusscream",
+        "stream": false
+      }
+    ]
+  },
+  "twelve": {
+    "subtitle": "subtitles.twelve",
+    "sounds": [
+      {
+        "name": "terribletwo:twelve",
+        "stream": true
+      }
+    ]
+  },
+  "ssgolemwalk": {
+    "subtitle": "subtitles.ssgolemwalk",
+    "sounds": [
+      {
+        "name": "terribletwo:ssirongolemwalk",
+        "stream": false
+      }
+    ]
+  },
+  "piss": {
+    "subtitle": "subtitles.piss",
+    "sounds": [
+      {
+        "name": "terribletwo:pissbucketse",
+        "stream": false
+      }
+    ]
+  },
+  "yell": {
+    "subtitle": "subtitles.yell",
+    "sounds": [
+      {
+        "name": "terribletwo:peashooterblooper",
+        "stream": true
+      }
+    ]
+  },
+  "diamondcrowbar": {
+    "subtitle": "subtitles.diamondcrowbar",
+    "sounds": [
+      {
+        "name": "terribletwo:ytmp3.latmedia_mp3_berserk_clang_sound_effect",
+        "stream": false
+      }
+    ]
+  },
+  "darkmatter": {
+    "subtitle": "subtitles.darkmatter",
+    "sounds": [
+      {
+        "name": "terribletwo:killsound_76900",
+        "stream": false
+      }
+    ]
+  },
+  "silence": {
+    "sounds": [
+      {
+        "name": "terribletwo:silence",
+        "stream": false
+      }
+    ]
+  },
+  "peashooterdeath": {
+    "subtitle": "subtitles.peashooterdeath",
+    "sounds": [
+      {
+        "name": "terribletwo:vo_peashooter_death_3_1_0",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:vo_peashooter_death_3_2_0",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:vo_peashooter_death_3_3_0",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:vo_peashooter_death_0_0_0",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:vo_peashooter_death_1_0_0",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:vo_peashooter_death_1_1_0",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:vo_peashooter_death_1_2_0",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:vo_peashooter_death_2_0_0",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:vo_peashooter_death_2_1_0",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:vo_peashooter_death_2_2_0",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:vo_peashooter_death_2_3_0",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:vo_peashooter_death_3_0_0",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:untitled",
+        "stream": false
+      }
+    ]
+  },
+  "peashooterhurt": {
+    "subtitle": "subtitles.peashooterhurt",
+    "sounds": [
+      {
+        "name": "terribletwo:vo_peashooter_pain_0_0_0",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:vo_peashooter_pain_1_0_0",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:vo_peashooter_pain_1_1_0",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:vo_peashooter_pain_1_2_0",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:vo_peashooter_pain_1_3_0",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:vo_peashooter_pain_1_4_0",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:vo_peashooter_pain_1_5_0",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:vo_peashooter_pain_1_6_0",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:vo_peashooter_pain_1_7_0",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:vo_peashooter_pain_1_8_0",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:vo_peashooter_pain_1_9_0",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:vo_peashooter_pain_1_10_0",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:vo_peashooter_pain_1_11_0",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:vo_peashooter_pain_1_13_0",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:vo_peashooter_pain_1_14_0",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:vo_peashooter_pain_1_15_0",
+        "stream": false
+      }
+    ]
+  },
+  "peahitnoise": {
+    "subtitle": "subtitles.peahitnoise",
+    "sounds": [
+      {
+        "name": "terribletwo:peahit3",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:peahit2",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:peahitsound1",
+        "stream": false
+      }
+    ]
+  },
+  "peashooterliving": {
+    "subtitle": "subtitles.peashooterliving",
+    "sounds": [
+      {
+        "name": "terribletwo:vo_peashooter_health_1_2_0",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:vo_peashooter_spawn_0_0_0",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:vo_peashooter_spawn_0_1_0",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:vo_peashooter_spawn_0_2_0",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:vo_peashooter_spawn_0_3_0",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:vo_peashooter_spawn_0_4_0",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:vo_peashooter_speedbuff_0_0_0",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:peashooter_vo_taunt_stompin_peas_0_0_0",
+        "stream": false
+      }
+    ]
+  },
+  "dreammemeory": {
+    "subtitle": "subtitles.dreammemeory",
+    "sounds": [
+      {
+        "name": "terribletwo:ytmp3.latmedia_mp3_dream_-_mask_official_sus_remix_",
+        "stream": false
+      }
+    ]
+  },
+  "frozenape": {
+    "subtitle": "subtitles.frozenape",
+    "sounds": [
+      {
+        "name": "terribletwo:frozenape",
+        "stream": false
+      }
+    ]
+  },
+  "supervillian": {
+    "subtitle": "subtitles.supervillian",
+    "sounds": [
+      {
+        "name": "terribletwo:ytmp3.latdbz_-_perfect_cell_theme_remix",
+        "stream": false
+      }
+    ]
+  },
+  "markhit": {
+    "subtitle": "subtitles.markhit",
+    "sounds": [
+      {
+        "name": "terribletwo:markiplierhitnoise",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:markiplierhurtnoise2",
+        "stream": false
+      }
+    ]
+  },
+  "markdeath": {
+    "subtitle": "subtitles.markdeath",
+    "sounds": [
+      {
+        "name": "terribletwo:marikplierdeathsound",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:markiplierdeathnoise2",
+        "stream": false
+      }
+    ]
+  },
+  "markalive": {
+    "subtitle": "subtitles.markalive",
+    "sounds": [
+      {
+        "name": "terribletwo:markiplierlivingnoise9",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:markipliermynameiswelcome",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:markiplierhewhoiscoming",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:markiplierhurtnoise2",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:markiplierlivingnoise1",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:markiplierlivingnoise2",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:markiplierlivingnoise3",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:markiplierlivingnoise4",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:markiplierlivingnoise5",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:markiplierlivingnoise6",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:markiplierlivingnoise7",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:markiplierlivingnoise8",
+        "stream": false
+      }
+    ]
+  },
+  "darkalive": {
+    "subtitle": "subtitles.darkalive",
+    "sounds": [
+      {
+        "name": "terribletwo:darklivingnoise3",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:darklivingnoise4",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:darklivingnoise5",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:darklivingnoise6",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:darklivingnoise7",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:darklivingnoise8",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:darklivingnoise9",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:darkmynameiswelcome",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:darkhewhoiscoming",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:darklivingnoise1",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:darklivingnoise2",
+        "stream": false
+      }
+    ]
+  },
+  "darkhit": {
+    "subtitle": "subtitles.darkhit",
+    "sounds": [
+      {
+        "name": "terribletwo:darkhitnoise",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:darkhurtnoise2",
+        "stream": false
+      }
+    ]
+  },
+  "darkdeath": {
+    "subtitle": "subtitles.darkdeath",
+    "sounds": [
+      {
+        "name": "terribletwo:darkiplierdeathnoise2",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:darkiplierdeathsound",
+        "stream": false
+      }
+    ]
+  },
+  "guffliving": {
+    "subtitle": "subtitles.guffliving",
+    "sounds": [
+      {
+        "name": "terribletwo:gufflivingnoise1",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:gufflivingnoise2",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:gufflivingnoise3",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:gufflivingnoise4",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:gufflivingnoise5",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:gufflivingnoise6",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:gufflivingnoise7",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:gufflivingnoise8",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:gufflivingnoise9",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:gufflivingnoise10",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:gufflivingnoise11",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:gufflivingnoise12",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:gufflivingnoise13",
+        "stream": false
+      }
+    ]
+  },
+  "guffdeath": {
+    "subtitle": "subtitles.guffdeath",
+    "sounds": [
+      {
+        "name": "terribletwo:guffdeathnoise1",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:guffdeathnoise2",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:guffdeathnoise3",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:guffdeathnoise4",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:guffdeathnoise5",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:guffdeathnoise6",
+        "stream": false
+      }
+    ]
+  },
+  "guffhurt": {
+    "subtitle": "subtitles.guffhurt",
+    "sounds": [
+      {
+        "name": "terribletwo:guffhurtnoise1",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:guffhurtnoise2",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:guffhurtnoise3",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:guffhurtnoise4",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:guffhurtnoise5",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:guffhurtnoise6",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:guffhurtnoise7",
+        "stream": false
+      }
+    ]
+  },
+  "gufftheme": {
+    "subtitle": "subtitles.gufftheme",
+    "sounds": [
+      {
+        "name": "terribletwo:gufftheme",
+        "stream": false
+      }
+    ]
+  },
+  "grenadethrow": {
+    "subtitle": "subtitles.grenadethrow",
+    "sounds": [
+      {
+        "name": "terribletwo:gernadethrow",
+        "stream": false
+      }
+    ]
+  },
+  "spearmelee": {
+    "subtitle": "subtitles.spearmelee",
+    "sounds": [
+      {
+        "name": "terribletwo:spearmelee",
+        "stream": false
+      }
+    ]
+  },
+  "spearthrow": {
+    "subtitle": "subtitles.spearthrow",
+    "sounds": [
+      {
+        "name": "terribletwo:spearthrow3",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:spearthrow2",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:spearthrow1",
+        "stream": false
+      }
+    ]
+  },
+  "perfectcritical": {
+    "subtitle": "subtitles.perfectcritical",
+    "sounds": [
+      {
+        "name": "terribletwo:truecrit",
+        "stream": false
+      }
+    ]
+  },
+  "santaliving": {
+    "subtitle": "subtitles.santaliving",
+    "sounds": [
+      {
+        "name": "terribletwo:ho1",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:ho2",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:ho3",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:ho4",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:ho5",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:ho6",
+        "stream": false
+      }
+    ]
+  },
+  "santadeath": {
+    "subtitle": "subtitles.santadeath",
+    "sounds": [
+      {
+        "name": "terribletwo:merrychirstmas1",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:merrychristmas2",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:merrychristmas3",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:merrychristmas4",
+        "stream": false
+      }
+    ]
+  },
+  "cshapeliving": {
+    "subtitle": "subtitles.cshapeliving",
+    "sounds": [
+      {
+        "name": "terribletwo:clivingnoise1",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:clivingnoise2",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:clivingnoise3",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:clivingnoise4",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:clivingnoise5",
+        "stream": false
+      }
+    ]
+  },
+  "cshapehurt": {
+    "subtitle": "subtitles.cshapehurt",
+    "sounds": [
+      {
+        "name": "terribletwo:churtnoise1",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:churtnoise2",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:churtnoise3",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:churtnoise4",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:churtnoise5",
+        "stream": false
+      }
+    ]
+  },
+  "cshapedeath": {
+    "subtitle": "subtitles.cshapedeath",
+    "sounds": [
+      {
+        "name": "terribletwo:cdeathnoise",
+        "stream": false
+      }
+    ]
+  },
+  "strongerthanyou": {
+    "subtitle": "subtitles.strongerthanyou",
+    "sounds": [
+      {
+        "name": "terribletwo:strongerthanyouspanishafricankarateeditionsong",
+        "stream": true
+      }
+    ]
+  },
+  "kanyeliving": {
+    "subtitle": "subtitles.kanyeliving",
+    "sounds": [
+      {
+        "name": "terribletwo:kln39",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln38",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln37",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln36",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln35",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln34",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln33",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln32",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln31",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln30",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln29",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln28",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln27",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln26",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln25",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln24",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln23",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln22",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln21",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln20",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln19",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln18",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln17",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln16",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln15",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln14",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln13",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln12",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln11",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln10",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln9",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln8",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln7",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln6",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln5",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln4",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln3",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln2",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kln1",
+        "stream": false
+      }
+    ]
+  },
+  "kanyehit": {
+    "subtitle": "subtitles.kanyehit",
+    "sounds": [
+      {
+        "name": "terribletwo:khn3",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:khn2",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:khn1",
+        "stream": false
+      }
+    ]
+  },
+  "kanyedeath": {
+    "subtitle": "subtitles.kanyedeath",
+    "sounds": [
+      {
+        "name": "terribletwo:kdn3",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kdn2",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:kdn1",
+        "stream": false
+      }
+    ]
+  },
+  "santastep": {
+    "subtitle": "subtitles.santastep",
+    "sounds": [
+      {
+        "name": "terribletwo:santamovenoise",
+        "stream": false
+      }
+    ]
+  },
+  "fortnitebuilding": {
+    "subtitle": "subtitles.fortnitebuilding",
+    "sounds": [
+      {
+        "name": "terribletwo:woodbuildfortnite",
+        "stream": false
+      }
+    ]
+  },
+  "peepeeman": {
+    "subtitle": "subtitles.peepeeman",
+    "sounds": [
+      {
+        "name": "terribletwo:peepeemanintro",
+        "stream": false
+      }
+    ]
+  },
+  "eyeofthespider": {
+    "subtitle": "subtitles.eyeofthespider",
+    "sounds": [
+      {
+        "name": "terribletwo:ytmp3.lateye_of_the_spider_eye_of_the_tiger_minecraft_parody_",
+        "stream": true
+      }
+    ]
+  },
+  "hellnaw": {
+    "subtitle": "subtitles.hellnaw",
+    "sounds": [
+      {
+        "name": "terribletwo:hell-naw",
+        "stream": false
+      }
+    ]
+  },
+  "hellnahecho": {
+    "subtitle": "subtitles.hellnahecho",
+    "sounds": [
+      {
+        "name": "terribletwo:hell-naw-echo",
+        "stream": false
+      }
+    ]
+  },
+  "darkipliertheme": {
+    "subtitle": "subtitles.darkipliertheme",
+    "sounds": [
+      {
+        "name": "terribletwo:ytmp3.latminimusicman_-_crazy_la_paint_markiplier_outro_2015_",
+        "stream": false
+      }
+    ]
+  },
+  "elfliving": {
+    "subtitle": "subtitles.elfliving",
+    "sounds": [
+      {
+        "name": "terribletwo:livingnoise1",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:livingnoise2",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:livingnoise3",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:livingnoise4",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:livingnoise5",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:livingnoise6",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:livingnoise7",
+        "stream": false
+      }
+    ]
+  },
+  "elfhurt": {
+    "subtitle": "subtitles.elfhurt",
+    "sounds": [
+      {
+        "name": "terribletwo:hurtnoise1",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:hurtnoise2",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:hurtnoise3",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:hurtnoise4",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:hurtnoise5",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:hurtnoise6",
+        "stream": false
+      }
+    ]
+  },
+  "elfdeath": {
+    "subtitle": "subtitles.elfdeath",
+    "sounds": [
+      {
+        "name": "terribletwo:deathnoise1",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:deathnoise2",
+        "stream": false
+      }
+    ]
+  },
+  "santahurt": {
+    "subtitle": "subtitles.santahurt",
+    "sounds": [
+      {
+        "name": "terribletwo:santahurt1",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:santahurt2",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:santahurt3",
+        "stream": false
+      }
+    ]
+  },
+  "theend": {
+    "subtitle": "subtitles.theend",
+    "sounds": [
+      {
+        "name": "terribletwo:theend",
+        "stream": true
+      }
+    ]
+  },
+  "ltgln": {
+    "subtitle": "subtitles.ltgln",
+    "sounds": [
+      {
+        "name": "terribletwo:ltgln26",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:ltgln25",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:ltgln24",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:ltgln23",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:ltgln22",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:ltgln21",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:ltgln20",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:ltgln18",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:ltgln17",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:ltgln16",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:ltgln14",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:ltgln13",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:ltgln12",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:ltgln11",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:ltgln10",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:ltgln9",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:ltgln8",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:ltgln7",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:ltgln6",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:ltgln5",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:ltgln4",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:ltgln3",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:ltgln2",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:ltgln1",
+        "stream": false
+      }
+    ]
+  },
+  "ltgdn": {
+    "subtitle": "subtitles.ltgdn",
+    "sounds": [
+      {
+        "name": "terribletwo:ltgdn1",
+        "stream": false
+      }
+    ]
+  },
+  "ltghn": {
+    "subtitle": "subtitles.ltghn",
+    "sounds": [
+      {
+        "name": "terribletwo:ltghn3",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:ltghn2",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:ltghn1",
+        "stream": false
+      }
+    ]
+  },
+  "ltgmods": {
+    "subtitle": "subtitles.ltgmods",
+    "sounds": [
+      {
+        "name": "terribletwo:ltg_mods_crush_his_skull",
+        "stream": false
+      }
+    ]
+  },
+  "ltgmonkey": {
+    "subtitle": "subtitles.ltgmonkey",
+    "sounds": [
+      {
+        "name": "terribletwo:ltgmonkey",
+        "stream": false
+      }
+    ]
+  },
+  "ltgmelee": {
+    "subtitle": "subtitles.ltgmelee",
+    "sounds": [
+      {
+        "name": "terribletwo:ltgmelee",
+        "stream": false
+      }
+    ]
+  },
+  "ltgkeepseasoning": {
+    "subtitle": "subtitles.ltgkeepseasoning",
+    "sounds": [
+      {
+        "name": "terribletwo:ltgkeepseasoning",
+        "stream": false
+      }
+    ]
+  },
+  "ltgchangeofheart": {
+    "subtitle": "subtitles.ltgchangeofheart",
+    "sounds": [
+      {
+        "name": "terribletwo:ltgchangeofheart",
+        "stream": false
+      }
+    ]
+  },
+  "ltgfinalformspeech": {
+    "subtitle": "subtitles.ltgfinalformspeech",
+    "sounds": [
+      {
+        "name": "terribletwo:ltgatfieldspeech",
+        "stream": false
+      }
+    ]
+  },
+  "atfieldbreak": {
+    "subtitle": "subtitles.atfieldbreak",
+    "sounds": [
+      {
+        "name": "terribletwo:ltgatfield",
+        "stream": false
+      }
+    ]
+  },
+  "atfieldsummon": {
+    "subtitle": "subtitles.atfieldsummon",
+    "sounds": [
+      {
+        "name": "terribletwo:atfieldsummon1",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:atfieldsummon2",
+        "stream": false
+      }
+    ]
+  },
+  "sonicshoes": {
+    "subtitle": "subtitles.sonicshoes",
+    "sounds": [
+      {
+        "name": "terribletwo:sonic9",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:sonic8",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:sonic7",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:sonic6",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:sonic5",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:sonic4",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:sonic3",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:sonic2",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:sonic1",
+        "stream": false
+      }
+    ]
+  },
+  "scar": {
+    "subtitle": "subtitles.scar",
+    "sounds": [
+      {
+        "name": "terribletwo:scar",
+        "stream": false
+      }
+    ]
+  },
+  "cshapesiren": {
+    "subtitle": "subtitles.cshapesiren",
+    "sounds": [
+      {
+        "name": "terribletwo:newcshapesiren",
+        "stream": false
+      }
+    ]
+  },
+  "flashbang": {
+    "subtitle": "subtitles.flashbang",
+    "sounds": [
+      {
+        "name": "terribletwo:flashbang",
+        "stream": false
+      }
+    ]
+  },
+  "ltgtheme": {
+    "subtitle": "subtitles.ltgtheme",
+    "sounds": [
+      {
+        "name": "terribletwo:ltgtheme",
+        "stream": false
+      }
+    ]
+  },
+  "mimicsong": {
+    "subtitle": "subtitles.mimicsong",
+    "sounds": [
+      {
+        "name": "terribletwo:mimicsong",
+        "stream": true
+      }
+    ]
+  },
+  "placingblocks": {
+    "subtitle": "subtitles.placingblocks",
+    "sounds": [
+      {
+        "name": "terribletwo:placingblocksnshit",
+        "stream": true
+      }
+    ]
+  },
+  "livingtombstone": {
+    "subtitle": "subtitles.livingtombstone",
+    "sounds": [
+      {
+        "name": "terribletwo:fnafsong",
+        "stream": true
+      }
+    ]
+  },
+  "miningdiamonds": {
+    "subtitle": "subtitles.miningdiamonds",
+    "sounds": [
+      {
+        "name": "terribletwo:minediamonds",
+        "stream": true
+      }
+    ]
+  },
+  "nobodyshero": {
+    "subtitle": "subtitles.nobodyshero",
+    "sounds": [
+      {
+        "name": "terribletwo:i_m_nobody_s_hero_hd_remastered_edition",
+        "stream": true
+      }
+    ]
+  },
+  "ltggarlicsalt": {
+    "subtitle": "subtitles.ltggarlicsalt",
+    "sounds": [
+      {
+        "name": "terribletwo:ltg_alt_ending",
+        "stream": false
+      }
+    ]
+  },
+  "secretending": {
+    "subtitle": "subtitles.secretending",
+    "sounds": [
+      {
+        "name": "terribletwo:1991",
+        "stream": true
+      }
+    ]
+  },
+  "athleticln": {
+    "subtitle": "subtitles.athleticln",
+    "sounds": [
+      {
+        "name": "terribletwo:athstevweet3",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:athstevweet2",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:athstevweet1",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:athstevweet4",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:athstevweet5",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:athstevln4",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:athstevln3",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:athstevln2",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:athleticsteveln1",
+        "stream": false
+      }
+    ]
+  },
+  "athletichurt": {
+    "subtitle": "subtitles.athletichurt",
+    "sounds": [
+      {
+        "name": "terribletwo:athstevhn4",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:athstevhn3",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:athstevhn2",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:athstevhn1",
+        "stream": false
+      }
+    ]
+  },
+  "athleticdeath": {
+    "subtitle": "subtitles.athleticdeath",
+    "sounds": [
+      {
+        "name": "terribletwo:athstevdn1",
+        "stream": false
+      }
+    ]
+  },
+  "goldenjumpscare": {
+    "subtitle": "subtitles.goldenjumpscare",
+    "sounds": [
+      {
+        "name": "terribletwo:full-golden-freddy-scream",
+        "stream": false
+      }
+    ]
+  },
+  "picklerick": {
+    "subtitle": "subtitles.picklerick",
+    "sounds": [
+      {
+        "name": "terribletwo:prln14",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:prln13",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:prln12",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:prln11",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:prln10",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:prln9",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:prln8",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:prln7",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:prln6",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:prln5",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:prln4",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:prln3",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:prln2",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:prln1",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:burp20",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:burp19",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:burp18",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:burp17",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:burp16",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:burp15",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:burp14",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:burp13",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:burp12",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:burp11",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:burp10",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:burp9",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:burp8",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:burp7",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:burp6",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:burp5",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:burp4",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:burp3",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:burp2",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:brup1",
+        "stream": false
+      }
+    ]
+  },
+  "beatliving": {
+    "subtitle": "subtitles.beatliving",
+    "sounds": [
+      {
+        "name": "terribletwo:bkln1",
+        "stream": false
+      }
+    ]
+  },
+  "beathurt": {
+    "subtitle": "subtitles.beathurt",
+    "sounds": [
+      {
+        "name": "terribletwo:bkhn1",
+        "stream": false
+      }
+    ]
+  },
+  "beatdeath": {
+    "subtitle": "subtitles.beatdeath",
+    "sounds": [
+      {
+        "name": "terribletwo:bkhn1",
+        "stream": false
+      }
+    ]
+  },
+  "shialiving": {
+    "subtitle": "subtitles.shialiving",
+    "sounds": [
+      {
+        "name": "terribletwo:runninglife",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:30feetback",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:brandish",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:gaining",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:phonedead",
+        "stream": false
+      },
+      {
+        "name": "terribletwo:woods",
+        "stream": false
+      }
+    ]
+  },
+  "shiastheme": {
+    "subtitle": "subtitles.shiastheme",
+    "sounds": [
+      {
+        "name": "terribletwo:terrible_mod_2_development__ost_-_rematch_draft_1",
+        "stream": true
+      }
+    ]
+  },
+  "sprung": {
+    "subtitle": "subtitles.sprung",
+    "sounds": [
+      {
+        "name": "terribletwo:five-nights-at-freddys-3-springtraps-jumpscare-brightened",
+        "stream": false
+      }
+    ]
+  },
+  "losthaven": {
+    "subtitle": "subtitles.losthaven",
+    "sounds": [
+      {
+        "name": "terribletwo:fear__hunger_2__termina_ost_-_lost_haven__shillings",
+        "stream": true
+      }
+    ]
+  },
+  "shiadeath": {
+    "subtitle": "subtitles.shiadeath",
+    "sounds": [
+      {
+        "name": "terribletwo:shadows",
+        "stream": false
+      }
+    ]
+  }
+}

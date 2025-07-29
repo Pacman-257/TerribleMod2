@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "terribletwo:item/16052146-pack_l"
+  }
+}

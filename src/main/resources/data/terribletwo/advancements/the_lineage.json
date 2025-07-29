@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "id": "terribletwo:dark_matter_crowbar"
+    },
+    "title": {
+      "translate": "advancements.the_lineage.title"
+    },
+    "description": {
+      "translate": "advancements.the_lineage.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "the_lineage_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "terribletwo:dark_matter_crowbar"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "terribletwo:transmutation"
+}

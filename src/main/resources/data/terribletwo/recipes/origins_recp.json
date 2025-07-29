@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "endgame",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "terribletwo:torn_page_4"
+    },
+    {
+      "item": "terribletwo:torn_page_5"
+    },
+    {
+      "item": "terribletwo:torn_page_1"
+    },
+    {
+      "item": "terribletwo:torn_page_2"
+    },
+    {
+      "item": "terribletwo:torn_page_3"
+    },
+    {
+      "item": "minecraft:book"
+    }
+  ],
+  "result": {
+    "id": "terribletwo:origins",
+    "count": 1
+  }
+}

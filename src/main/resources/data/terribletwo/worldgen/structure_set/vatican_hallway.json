@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "terribletwo:vatican_hallway",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 90,
+    "separation": 80,
+    "salt": 890208384
+  }
+}

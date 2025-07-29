@@ -1,0 +1,45 @@
+{
+  "display": {
+    "icon": {
+      "id": "terribletwo:moustasche"
+    },
+    "title": {
+      "translate": "advancements.to_kill_a_markiplier.title"
+    },
+    "description": {
+      "translate": "advancements.to_kill_a_markiplier.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "to_kill_a_markiplier_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "terribletwo:longplier"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "loot": [
+      "terribletwo:torn_page_4_table"
+    ],
+    "recipes": [
+      "terribletwo:origins_recp"
+    ]
+  },
+  "parent": "terribletwo:too_old_for_this"
+}

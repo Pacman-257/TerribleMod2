@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "classic",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "terribletwo:rose"
+    }
+  ],
+  "result": {
+    "id": "minecraft:red_dye",
+    "count": 1
+  }
+}

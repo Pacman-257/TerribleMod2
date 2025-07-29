@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "terribletwo:depression_clock"
+    },
+    "title": {
+      "translate": "advancements.its_a_reference.title"
+    },
+    "description": {
+      "translate": "advancements.its_a_reference.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "its_a_reference_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "terribletwo:transmutation"
+}

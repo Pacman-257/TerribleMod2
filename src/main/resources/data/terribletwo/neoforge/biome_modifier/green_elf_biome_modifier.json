@@ -1,0 +1,17 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "snowy_slopes",
+    "snowy_taiga",
+    "snowy_plains",
+    "frozen_peaks",
+    "frozen_river",
+    "ice_spikes"
+  ],
+  "spawners": {
+    "type": "terribletwo:green_elf",
+    "weight": 900,
+    "minCount": 10,
+    "maxCount": 10
+  }
+}

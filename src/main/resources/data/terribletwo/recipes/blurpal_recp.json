@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "ourpal",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "terribletwo:repaired_ourple_sword"
+    },
+    {
+      "item": "terribletwo:the_blue_hat"
+    },
+    {
+      "item": "terribletwo:cosmic_kush"
+    }
+  ],
+  "result": {
+    "id": "terribletwo:blurpal_sword",
+    "count": 1
+  }
+}

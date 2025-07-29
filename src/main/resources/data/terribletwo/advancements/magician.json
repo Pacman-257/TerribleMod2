@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "terribletwo:end_flames_book"
+    },
+    "title": {
+      "translate": "advancements.magician.title"
+    },
+    "description": {
+      "translate": "advancements.magician.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "magician_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "terribletwo:hearth_adv"
+}

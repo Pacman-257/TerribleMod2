@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "terribletwo:block/ourpalchamber",
+    "particle": "terribletwo:block/ourpalchamber"
+  },
+  "render_type": "cutout_mipped"
+}

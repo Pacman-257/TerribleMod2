@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "rainking",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "terribletwo:kiss"
+    },
+    {
+      "item": "terribletwo:rain"
+    }
+  ],
+  "result": {
+    "id": "terribletwo:the_real_rain_king_dimension",
+    "count": 1
+  }
+}

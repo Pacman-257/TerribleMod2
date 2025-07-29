@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "terribletwo:block/last_gen_cringe",
+    "particle": "terribletwo:block/last_gen_cringe"
+  },
+  "render_type": "solid"
+}

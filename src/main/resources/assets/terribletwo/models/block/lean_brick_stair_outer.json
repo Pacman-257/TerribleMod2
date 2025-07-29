@@ -1,0 +1,10 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "particle": "terribletwo:block/leanbricks",
+    "bottom": "terribletwo:block/leanbricks",
+    "top": "terribletwo:block/leanbricks",
+    "side": "terribletwo:block/leanbricks"
+  },
+  "render_type": "solid"
+}

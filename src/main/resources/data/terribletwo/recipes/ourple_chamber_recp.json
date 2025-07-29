@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "boss",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "terribletwo:cosmic_kush"
+    },
+    {
+      "item": "terribletwo:lean_light"
+    }
+  ],
+  "result": {
+    "id": "terribletwo:ourpal_chamber",
+    "count": 1
+  }
+}

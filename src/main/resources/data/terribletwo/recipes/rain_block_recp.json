@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "rainking",
+  "category": "building",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "terribletwo:rain"
+    }
+  },
+  "result": {
+    "id": "terribletwo:rain_block",
+    "count": 1
+  }
+}

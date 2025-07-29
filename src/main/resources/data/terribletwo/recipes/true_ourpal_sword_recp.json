@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "terribletwo:lean_bucket"
+    },
+    {
+      "item": "terribletwo:cosmic_kush"
+    },
+    {
+      "item": "terribletwo:unstable_ourple_sword"
+    },
+    {
+      "item": "terribletwo:guff_soul"
+    },
+    {
+      "item": "terribletwo:origins"
+    }
+  ],
+  "result": {
+    "id": "terribletwo:the_ourpal_sword",
+    "count": 1
+  }
+}

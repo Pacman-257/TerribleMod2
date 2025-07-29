@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "terribletwo:block/bananatnttop",
+    "up": "terribletwo:block/bananatnttop",
+    "north": "terribletwo:block/bananatntside",
+    "east": "terribletwo:block/bananatntside",
+    "south": "terribletwo:block/bananatntside",
+    "west": "terribletwo:block/bananatntside",
+    "particle": "terribletwo:block/bananatnttop"
+  },
+  "render_type": "solid"
+}

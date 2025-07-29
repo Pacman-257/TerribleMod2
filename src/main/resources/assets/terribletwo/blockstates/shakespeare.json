@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "terribletwo:block/shakespeare"
+    },
+    "facing=east": {
+      "model": "terribletwo:block/shakespeare",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "terribletwo:block/shakespeare",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "terribletwo:block/shakespeare",
+      "y": 270
+    }
+  }
+}

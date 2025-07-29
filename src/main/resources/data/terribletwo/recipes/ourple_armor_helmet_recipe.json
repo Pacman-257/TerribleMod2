@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "lean",
+  "category": "equipment",
+  "pattern": [
+    "aaa",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "terribletwo:lean_chunks"
+    }
+  },
+  "result": {
+    "id": "terribletwo:ourple_armor_helmet",
+    "count": 1
+  }
+}

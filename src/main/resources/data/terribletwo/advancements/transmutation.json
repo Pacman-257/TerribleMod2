@@ -1,0 +1,42 @@
+{
+  "display": {
+    "icon": {
+      "id": "terribletwo:basedtanium"
+    },
+    "title": {
+      "translate": "advancements.transmutation.title"
+    },
+    "description": {
+      "translate": "advancements.transmutation.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "transmutation_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "terribletwo:basedtanium"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "terribletwo:repaired_ourple_sword_recp"
+    ]
+  },
+  "parent": "terribletwo:the_cosmic_kush"
+}

@@ -1,0 +1,54 @@
+{
+  "has_precipitation": true,
+  "temperature": 0.5,
+  "downfall": 0.5,
+  "effects": {
+    "particle": {
+      "options": {
+        "type": "lava"
+      },
+      "probability": 0.01
+    },
+    "foliage_color": -39424,
+    "grass_color": -39424,
+    "sky_color": -6737152,
+    "fog_color": -6737152,
+    "water_color": -39424,
+    "water_fog_color": -6737152
+  },
+  "spawners": {
+    "monster": [],
+    "creature": [],
+    "ambient": [],
+    "axolotls": [],
+    "underground_water_creature": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:cave_extra_underground",
+      "minecraft:canyon"
+    ]
+  },
+  "features": [
+    [],
+    [
+      "minecraft:lake_lava_underground"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "terribletwo:half_life_tree"
+    ],
+    []
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "lean",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "terribletwo:lean_brick"
+    },
+    "b": {
+      "item": "minecraft:redstone_lamp"
+    }
+  },
+  "result": {
+    "id": "terribletwo:lean_light",
+    "count": 1
+  }
+}

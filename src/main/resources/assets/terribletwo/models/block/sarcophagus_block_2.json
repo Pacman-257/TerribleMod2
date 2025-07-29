@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "terribletwo:block/sarcophagus1",
+    "up": "terribletwo:block/sarcophagus1",
+    "north": "terribletwo:block/sarcophagus2",
+    "east": "terribletwo:block/sarcophagus2",
+    "south": "terribletwo:block/sarcophagus2",
+    "west": "terribletwo:block/sarcophagus2",
+    "particle": "terribletwo:block/sarcophagus1"
+  },
+  "render_type": "solid"
+}

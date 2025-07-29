@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "id": "terribletwo:cosmic_spliff"
+    },
+    "title": {
+      "translate": "advancements.cosmic_spliff_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.cosmic_spliff_advancement.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "cosmic_spliff_advancement_0": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "terribletwo:cosmic_spliff"
+          ]
+        }
+      }
+    }
+  },
+  "parent": "terribletwo:transmutation"
+}

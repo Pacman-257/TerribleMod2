@@ -1,0 +1,9 @@
+{
+  "parent": "terribletwo:custom/tall_rod",
+  "textures": {
+    "all": "minecraft:block/end_rod",
+    "particle": "minecraft:block/end_rod",
+    "1": "minecraft:block/end_rod"
+  },
+  "render_type": "solid"
+}

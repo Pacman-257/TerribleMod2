@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "terribletwo:block/leanlightanim",
+    "particle": "terribletwo:block/leanlightanim"
+  },
+  "render_type": "solid"
+}

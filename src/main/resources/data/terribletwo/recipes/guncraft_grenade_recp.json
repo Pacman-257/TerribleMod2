@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "grenade",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:red_concrete"
+    },
+    "b": {
+      "item": "terribletwo:grenade"
+    }
+  },
+  "result": {
+    "id": "terribletwo:wall_grenade",
+    "count": 1
+  }
+}

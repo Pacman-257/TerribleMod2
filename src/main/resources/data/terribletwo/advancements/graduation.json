@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "id": "terribletwo:spearof_lonsusis"
+    },
+    "title": {
+      "translate": "advancements.graduation.title"
+    },
+    "description": {
+      "translate": "advancements.graduation.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "graduation_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "terribletwo:spearof_lonsusis"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "terribletwo:magician"
+}

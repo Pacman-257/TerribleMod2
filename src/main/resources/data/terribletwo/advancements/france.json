@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "id": "terribletwo:french_block"
+    },
+    "title": {
+      "translate": "advancements.france.title"
+    },
+    "description": {
+      "translate": "advancements.france.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "france_0": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "terribletwo:french_biome"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "terribletwo:terrible_mod_ad"
+}

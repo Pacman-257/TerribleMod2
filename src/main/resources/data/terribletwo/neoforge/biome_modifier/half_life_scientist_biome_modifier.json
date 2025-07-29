@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "terribletwo:half_life",
+  "spawners": {
+    "type": "terribletwo:half_life_scientist",
+    "weight": 20,
+    "minCount": 4,
+    "maxCount": 4
+  }
+}

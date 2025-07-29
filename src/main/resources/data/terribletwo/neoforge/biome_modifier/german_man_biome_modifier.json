@@ -1,0 +1,19 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "plains",
+    "snowy_plains",
+    "forest",
+    "birch_forest",
+    "windswept_forest",
+    "dark_forest",
+    "badlands",
+    "desert"
+  ],
+  "spawners": {
+    "type": "terribletwo:german_man",
+    "weight": 5,
+    "minCount": 1,
+    "maxCount": 3
+  }
+}

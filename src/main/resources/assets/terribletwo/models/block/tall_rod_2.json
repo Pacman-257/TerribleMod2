@@ -1,0 +1,9 @@
+{
+  "parent": "terribletwo:custom/tall_rod2",
+  "textures": {
+    "all": "minecraft:block/lightning_rod",
+    "particle": "minecraft:block/lightning_rod",
+    "1": "minecraft:block/lightning_rod"
+  },
+  "render_type": "solid"
+}

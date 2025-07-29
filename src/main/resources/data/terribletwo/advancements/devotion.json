@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "id": "terribletwo:kite"
+    },
+    "title": {
+      "translate": "advancements.devotion.title"
+    },
+    "description": {
+      "translate": "advancements.devotion.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "devotion_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "terribletwo:kite"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "terribletwo:graduation"
+}

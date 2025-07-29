@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "rainking",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:potion"
+    }
+  },
+  "result": {
+    "id": "terribletwo:rain",
+    "count": 1
+  }
+}

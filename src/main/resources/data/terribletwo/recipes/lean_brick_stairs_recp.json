@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "lean",
+  "category": "building",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "terribletwo:lean_brick"
+    }
+  },
+  "result": {
+    "id": "terribletwo:lean_brick_stair",
+    "count": 3
+  }
+}

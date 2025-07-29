@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "terribletwo:block/red",
+    "particle": "terribletwo:block/red"
+  },
+  "render_type": "solid"
+}

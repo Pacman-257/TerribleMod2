@@ -1,0 +1,40 @@
+{
+  "display": {
+    "icon": {
+      "id": "terribletwo:lean_chunks"
+    },
+    "title": {
+      "translate": "advancements.lostin_the_lean.title"
+    },
+    "description": {
+      "translate": "advancements.lostin_the_lean.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "lostin_the_lean_0": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "terribletwo:the_vv_izard_v_veed"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "terribletwo:ourple_armor_helmet_recipe",
+      "terribletwo:ourple_armor_chestplate_recipe",
+      "terribletwo:ourple_armor_leggings_recipe",
+      "terribletwo:ourple_armor_boots_recipe",
+      "terribletwo:lean_brick_recp",
+      "terribletwo:lean_brick_block_recp",
+      "terribletwo:lean_brick_slab_recp",
+      "terribletwo:lean_brick_stairs_recp",
+      "terribletwo:leanlight_recp"
+    ]
+  },
+  "parent": "terribletwo:leann"
+}

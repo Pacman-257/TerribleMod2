@@ -1,0 +1,48 @@
+modLoader="javafml"
+loaderVersion="[2,)"
+license="Public Domain"
+
+[[mods]]
+modId="terribletwo"
+version="1.0.3"
+displayName="Terrible Mod 2"
+displayURL="https://www.twitter.com/257Pacman"
+logoFile="logo.png"
+credits="Desdinova & Fulcanelli"
+authors="Desdinova & Fulcanelli"
+description="This is getting out of hand, now there are 2 of them."
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.terribletwo]]
+    modId="neoforge"
+    type="required"
+    versionRange="[20.6.117,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.terribletwo]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.20.6]"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.terribletwo]]
+    modId="geckolib"
+    type="required"
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.terribletwo]]
+    modId="geckolib"
+    type="optional"
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

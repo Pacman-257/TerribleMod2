@@ -1,0 +1,44 @@
+{
+  "display": {
+    "icon": {
+      "id": "terribletwo:dl_44"
+    },
+    "title": {
+      "translate": "advancements.too_old_for_this.title"
+    },
+    "description": {
+      "translate": "advancements.too_old_for_this.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "too_old_for_this_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "terribletwo:dl_44"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "terribletwo:gojo_cat_recp",
+      "terribletwo:baugette_recp",
+      "terribletwo:pizza_recp"
+    ]
+  },
+  "parent": "terribletwo:august_ninteen_forty_five"
+}

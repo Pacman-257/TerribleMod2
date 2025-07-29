@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "lean",
+  "category": "building",
+  "pattern": [
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "terribletwo:lean_brick"
+    }
+  },
+  "result": {
+    "id": "terribletwo:lean_brick_slab",
+    "count": 2
+  }
+}

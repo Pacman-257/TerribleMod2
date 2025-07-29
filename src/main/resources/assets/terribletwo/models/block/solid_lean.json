@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "terribletwo:block/soildlean",
+    "particle": "terribletwo:block/soildlean"
+  },
+  "render_type": "solid"
+}

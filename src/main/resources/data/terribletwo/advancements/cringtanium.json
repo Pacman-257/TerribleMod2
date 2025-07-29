@@ -1,0 +1,46 @@
+{
+  "display": {
+    "icon": {
+      "id": "terribletwo:cringetanium"
+    },
+    "title": {
+      "translate": "advancements.cringtanium.title"
+    },
+    "description": {
+      "translate": "advancements.cringtanium.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "cringtanium_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "terribletwo:cringetanium"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "terribletwo:cringetanium_armor_armor_helmet_recipe",
+      "terribletwo:cringetanium_armor_armor_chestplate_recipe",
+      "terribletwo:cringetanium_armor_armor_leggings_recipe",
+      "terribletwo:cringetanium_armor_armor_boots_recipe",
+      "terribletwo:chamberof_power_recp"
+    ]
+  },
+  "parent": "terribletwo:the_rain_kingis_real"
+}

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "terribletwo:hearth",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 205,
+    "separation": 165,
+    "salt": 1005899052
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "terribletwo:bookruin",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 90,
+    "separation": 60,
+    "salt": 1564901516
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "devitems",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "terribletwo:geckos_eye"
+    },
+    {
+      "item": "terribletwo:the_creator"
+    },
+    {
+      "item": "terribletwo:sunken_star"
+    },
+    {
+      "item": "terribletwo:diabolist_flames"
+    },
+    {
+      "item": "terribletwo:baboon_king_staff"
+    },
+    {
+      "item": "terribletwo:old_spice"
+    }
+  ],
+  "result": {
+    "id": "terribletwo:dt",
+    "count": 1
+  }
+}

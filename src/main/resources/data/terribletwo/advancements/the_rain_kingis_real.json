@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "terribletwo:the_real_rain_king_dimension"
+    },
+    "title": {
+      "translate": "advancements.the_rain_kingis_real.title"
+    },
+    "description": {
+      "translate": "advancements.the_rain_kingis_real.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "the_rain_kingis_real_0": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "terribletwo:the_real_rain_king_dimension"
+      }
+    }
+  },
+  "parent": "terribletwo:terrible_mod_ad"
+}

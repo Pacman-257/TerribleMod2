@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "terribletwo:vatican_archives",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 156,
+    "separation": 108,
+    "salt": 922123435
+  }
+}

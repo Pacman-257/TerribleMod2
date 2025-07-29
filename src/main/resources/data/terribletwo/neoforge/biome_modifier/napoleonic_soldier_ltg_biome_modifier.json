@@ -1,0 +1,16 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "plains",
+    "forest",
+    "terribletwo:french_biome",
+    "dark_forest",
+    "birch_forest"
+  ],
+  "spawners": {
+    "type": "terribletwo:napoleonic_soldier_ltg",
+    "weight": 5,
+    "minCount": 20,
+    "maxCount": 20
+  }
+}

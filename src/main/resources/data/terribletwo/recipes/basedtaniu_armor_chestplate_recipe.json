@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "transmute",
+  "category": "equipment",
+  "pattern": [
+    "a a",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "terribletwo:basedtanium"
+    }
+  },
+  "result": {
+    "id": "terribletwo:basedtaniu_armor_chestplate",
+    "count": 1
+  }
+}

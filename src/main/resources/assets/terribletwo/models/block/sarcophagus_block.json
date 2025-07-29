@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "terribletwo:block/sarcophagus1",
+    "particle": "terribletwo:block/sarcophagus1"
+  },
+  "render_type": "solid"
+}

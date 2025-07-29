@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "endgame",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "terribletwo:kite"
+    },
+    {
+      "item": "terribletwo:the_key"
+    }
+  ],
+  "result": {
+    "id": "terribletwo:voltsgeist",
+    "count": 1
+  }
+}

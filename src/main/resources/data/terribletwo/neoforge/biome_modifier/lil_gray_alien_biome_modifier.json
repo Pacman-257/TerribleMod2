@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "desert",
+  "spawners": {
+    "type": "terribletwo:lil_gray_alien",
+    "weight": 20,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

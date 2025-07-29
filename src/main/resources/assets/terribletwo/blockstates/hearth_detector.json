@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "terribletwo:block/hearth_detector"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "display": {
+    "background": "terribletwo:textures/screens/solidleanbg.png",
+    "icon": {
+      "id": "minecraft:fire_charge"
+    },
+    "title": {
+      "translate": "advancements.terrible_mod_ad.title"
+    },
+    "description": {
+      "translate": "advancements.terrible_mod_ad.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "terrible_mod_ad_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "terribletwo:lean_recipie",
+      "terribletwo:rain_recp",
+      "terribletwo:rain_block_recp",
+      "terribletwo:kiss_rcp",
+      "terribletwo:rain_kiss_recp",
+      "terribletwo:rain_bottle_rcp",
+      "terribletwo:moustasche_recp",
+      "terribletwo:warfstache_recp"
+    ]
+  }
+}

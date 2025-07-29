@@ -1,0 +1,13 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "plains",
+    "terribletwo:the_real_rain_king_biome",
+    "terribletwo:piss_biome",
+    "terribletwo:half_life",
+    "terribletwo:french_biome",
+    "terribletwo:v_vizard_lean"
+  ],
+  "features": "terribletwo:lean_pond",
+  "step": "lakes"
+}

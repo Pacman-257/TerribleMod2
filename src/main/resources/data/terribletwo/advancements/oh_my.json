@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "id": "terribletwo:the_orb"
+    },
+    "title": {
+      "translate": "advancements.oh_my.title"
+    },
+    "description": {
+      "translate": "advancements.oh_my.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "oh_my_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "terribletwo:chamberof_power_recp"
+    ]
+  },
+  "parent": "terribletwo:lostin_the_lean"
+}

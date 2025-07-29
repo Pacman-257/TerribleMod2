@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "terribletwo:block/the_real_rain_king_dimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "terribletwo:block/the_real_rain_king_dimension_portal_ns"
+    }
+  }
+}

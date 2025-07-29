@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "grenade",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "terribletwo:grenade"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    }
+  ],
+  "result": {
+    "id": "terribletwo:beenade",
+    "count": 1
+  }
+}

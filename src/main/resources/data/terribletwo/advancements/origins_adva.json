@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "terribletwo:origins"
+    },
+    "title": {
+      "translate": "advancements.origins_adva.title"
+    },
+    "description": {
+      "translate": "advancements.origins_adva.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "origins_adva_0": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "terribletwo:richtofen_dimension"
+      }
+    }
+  },
+  "parent": "terribletwo:the_faz_gang"
+}

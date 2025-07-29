@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "snowy_plains",
+  "spawners": {
+    "type": "terribletwo:santa_ltg",
+    "weight": 5,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

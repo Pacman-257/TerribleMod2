@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:barrel",
+    "minecraft:grass_block",
+    "terribletwo:piss_block",
+    "terribletwo:richtofen",
+    "minecraft:stone",
+    "minecraft:orange_concrete_powder",
+    "minecraft:orange_concrete",
+    "terribletwo:solid_lean"
+  ]
+}

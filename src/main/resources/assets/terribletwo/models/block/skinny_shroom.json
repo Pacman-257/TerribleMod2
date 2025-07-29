@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "terribletwo:block/skinny_shroom",
+    "particle": "terribletwo:block/skinny_shroom"
+  },
+  "render_type": "cutout"
+}

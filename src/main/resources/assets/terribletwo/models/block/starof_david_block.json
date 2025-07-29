@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "terribletwo:block/516mpgg-lcl",
+    "particle": "terribletwo:block/516mpgg-lcl"
+  },
+  "render_type": "solid"
+}

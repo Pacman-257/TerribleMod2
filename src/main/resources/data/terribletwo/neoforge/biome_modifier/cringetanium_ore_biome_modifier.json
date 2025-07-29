@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "terribletwo:the_real_rain_king_biome",
+  "features": "terribletwo:cringetanium_ore",
+  "step": "underground_ores"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "crowbar",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "terribletwo:diamond_crowbar"
+    },
+    {
+      "item": "terribletwo:lean_bucket"
+    }
+  ],
+  "result": {
+    "id": "terribletwo:dark_matter_crowbar",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "ourpal",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "terribletwo:ourpal_sword"
+    },
+    {
+      "item": "terribletwo:basedtanium"
+    }
+  ],
+  "result": {
+    "id": "terribletwo:repaired_ourple_sword",
+    "count": 1
+  }
+}

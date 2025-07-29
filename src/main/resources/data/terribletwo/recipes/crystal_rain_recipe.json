@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "shia",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "terribletwo:rain"
+    },
+    "b": {
+      "item": "terribletwo:the_end"
+    }
+  },
+  "result": {
+    "id": "terribletwo:crystal_rain",
+    "count": 1
+  }
+}

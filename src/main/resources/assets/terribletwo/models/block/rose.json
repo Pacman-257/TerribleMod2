@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "terribletwo:block/rose",
+    "particle": "terribletwo:block/rose"
+  },
+  "render_type": "cutout"
+}

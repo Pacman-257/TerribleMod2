@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "crowbar",
+  "category": "equipment",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:diamond"
+    },
+    "b": {
+      "item": "terribletwo:golden_crowbar"
+    }
+  },
+  "result": {
+    "id": "terribletwo:diamond_crowbar",
+    "count": 1
+  }
+}

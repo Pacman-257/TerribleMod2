@@ -1,0 +1,47 @@
+{
+  "display": {
+    "icon": {
+      "id": "terribletwo:cosmic_kush"
+    },
+    "title": {
+      "translate": "advancements.the_cosmic_kush.title"
+    },
+    "description": {
+      "translate": "advancements.the_cosmic_kush.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "the_cosmic_kush_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "terribletwo:cosmic_kush"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "loot": [
+      "terribletwo:orb_loot_table"
+    ],
+    "recipes": [
+      "terribletwo:chamberof_power_recp",
+      "terribletwo:ourple_chamber_recp",
+      "terribletwo:repaired_ourple_sword_recp"
+    ]
+  },
+  "parent": "terribletwo:lostin_the_lean"
+}

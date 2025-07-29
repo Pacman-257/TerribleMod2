@@ -1,0 +1,33 @@
+modLoader="javafml"
+loaderVersion="[2,)"
+license="Public Domain"
+
+[[mods]]
+modId="terribletwo"
+version="1.0"
+displayName="Terrible Mod 2"
+displayURL="https://bing.com"
+logoFile="logo.png"
+credits="bing.com"
+authors="Desdinova & Fulcanelli"
+description="This is getting out of hand, now there are 2 of them."
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.terribletwo]]
+    modId="neoforge"
+    type="required"
+    versionRange="[20.4.223,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.terribletwo]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.20.4]"
+    ordering="NONE"
+    side="BOTH"
+
+
+

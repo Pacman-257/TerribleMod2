@@ -1,0 +1,15 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.model.new": {
+			"loop": true,
+			"bones": {
+				"feet": {
+					"position": {
+						"vector": [0, 0, 1]
+					}
+				}
+			}
+		}
+	}
+}

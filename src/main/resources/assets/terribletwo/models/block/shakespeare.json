@@ -1,0 +1,9 @@
+{
+  "parent": "terribletwo:custom/shakespearehead",
+  "textures": {
+    "all": "terribletwo:block/texture",
+    "particle": "terribletwo:block/texture",
+    "1": "terribletwo:block/texture"
+  },
+  "render_type": "solid"
+}
