@@ -97,6 +97,8 @@ public class CShapeEntity extends Monster {
 			return false;
 		if (damagesource.is(DamageTypes.FALL))
 			return false;
+		if (damagesource.is(DamageTypes.DROWN))
+			return false;
 		if (damagesource.is(DamageTypes.FALLING_ANVIL))
 			return false;
 		if (damagesource.is(DamageTypes.WITHER) || damagesource.is(DamageTypes.WITHER_SKULL))
@@ -116,11 +118,11 @@ public class CShapeEntity extends Monster {
 		AttributeSupplier.Builder builder = Mob.createMobAttributes();
 		builder = builder.add(Attributes.MOVEMENT_SPEED, 0.4);
 		builder = builder.add(Attributes.MAX_HEALTH, 500);
-		builder = builder.add(Attributes.ARMOR, 20);
+		builder = builder.add(Attributes.ARMOR, 18);
 		builder = builder.add(Attributes.ATTACK_DAMAGE, 15);
 		builder = builder.add(Attributes.FOLLOW_RANGE, 16);
 		builder = builder.add(Attributes.STEP_HEIGHT, 0.6);
-		builder = builder.add(Attributes.KNOCKBACK_RESISTANCE, 2);
+		builder = builder.add(Attributes.KNOCKBACK_RESISTANCE, 1);
 		builder = builder.add(Attributes.ATTACK_KNOCKBACK, 1);
 		return builder;
 	}

@@ -14,6 +14,7 @@ import net.minecraft.world.item.BlockItem;
 import net.minecraft.core.registries.BuiltInRegistries;
 
 import net.mcreator.terribletwo.item.YellItem;
+import net.mcreator.terribletwo.item.WeezerItem;
 import net.mcreator.terribletwo.item.WeetItem;
 import net.mcreator.terribletwo.item.WarfstacheItem;
 import net.mcreator.terribletwo.item.WallGrenadeItem;
@@ -387,6 +388,7 @@ public class TerribletwoModItems {
 	public static final DeferredHolder<Item, Item> HEARTH_DETECTOR = block(TerribletwoModBlocks.HEARTH_DETECTOR);
 	public static final DeferredHolder<Item, Item> LONGPLIER = REGISTRY.register("longplier", LongplierItem::new);
 	public static final DeferredHolder<Item, Item> SPRINGTRAP_SPAWN_EGG = REGISTRY.register("springtrap_spawn_egg", () -> new DeferredSpawnEggItem(TerribletwoModEntities.SPRINGTRAP, -16751104, -16777216, new Item.Properties()));
+	public static final DeferredHolder<Item, Item> WEEZER = REGISTRY.register("weezer", WeezerItem::new);
 
 	// Start of user code block custom items
 	// End of user code block custom items

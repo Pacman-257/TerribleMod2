@@ -3216,6 +3216,37 @@ public class CosmicKushGUIWhileThisGUIIsOpenTickProcedure {
 					return 0;
 				}
 			}.getAmount(1) < 1 && (entity instanceof Player _plrSlotItem && _plrSlotItem.containerMenu instanceof Supplier _splr && _splr.get() instanceof Map _slt ? ((Slot) _slt.get(0)).getItem() : ItemStack.EMPTY)
+					.getItem() == Blocks.LIGHT_BLUE_CONCRETE.asItem()) {
+				if (entity instanceof Player _player && _player.containerMenu instanceof Supplier _current && _current.get() instanceof Map _slots) {
+					((Slot) _slots.get(0)).remove(1);
+					_player.containerMenu.broadcastChanges();
+				}
+				if (entity instanceof Player _player && _player.containerMenu instanceof Supplier _current && _current.get() instanceof Map _slots) {
+					ItemStack _setstack = new ItemStack(TerribletwoModItems.WEEZER.get()).copy();
+					_setstack.setCount((int) (new Object() {
+						public int getAmount(int sltid) {
+							if (entity instanceof Player _player && _player.containerMenu instanceof Supplier _current && _current.get() instanceof Map _slots) {
+								ItemStack stack = ((Slot) _slots.get(sltid)).getItem();
+								if (stack != null)
+									return stack.getCount();
+							}
+							return 0;
+						}
+					}.getAmount(1) + 1));
+					((Slot) _slots.get(1)).set(_setstack);
+					_player.containerMenu.broadcastChanges();
+				}
+			}
+			if (new Object() {
+				public int getAmount(int sltid) {
+					if (entity instanceof Player _player && _player.containerMenu instanceof Supplier _current && _current.get() instanceof Map _slots) {
+						ItemStack stack = ((Slot) _slots.get(sltid)).getItem();
+						if (stack != null)
+							return stack.getCount();
+					}
+					return 0;
+				}
+			}.getAmount(1) < 1 && (entity instanceof Player _plrSlotItem && _plrSlotItem.containerMenu instanceof Supplier _splr && _splr.get() instanceof Map _slt ? ((Slot) _slt.get(0)).getItem() : ItemStack.EMPTY)
 					.getItem() == TerribletwoModItems.COSMIC_KUSH.get()) {
 				if (world instanceof ServerLevel _level) {
 					Entity entityToSpawn = TerribletwoModEntities.THE_V_VIZARD.get().spawn(_level, BlockPos.containing(x, y, z), MobSpawnType.MOB_SUMMONED);

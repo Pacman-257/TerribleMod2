@@ -191,6 +191,7 @@ public class TerribletwoModTabs {
 				tabData.accept(TerribletwoModItems.MINING_DIAMONDS.get());
 				tabData.accept(TerribletwoModItems.PLACING_BLOCKS.get());
 				tabData.accept(TerribletwoModItems.LIVING_TOMBSTONE.get());
+				tabData.accept(TerribletwoModItems.WEEZER.get());
 				tabData.accept(TerribletwoModItems.THE_END.get());
 				tabData.accept(TerribletwoModItems.SECRET_ENDING.get());
 				tabData.accept(TerribletwoModItems.YELL.get());

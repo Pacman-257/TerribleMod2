@@ -2799,5 +2799,14 @@
         "stream": false
       }
     ]
+  },
+  "weezer": {
+    "subtitle": "subtitles.weezer",
+    "sounds": [
+      {
+        "name": "terribletwo:weezer",
+        "stream": true
+      }
+    ]
   }
 }

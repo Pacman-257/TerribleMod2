@@ -12,6 +12,7 @@ import net.minecraft.network.FriendlyByteBuf;
 import net.minecraft.core.BlockPos;
 
 import net.mcreator.terribletwo.world.inventory.CosmicKushGUIMenu;
+import net.mcreator.terribletwo.init.TerribletwoModGameRules;
 
 import io.netty.buffer.Unpooled;
 
@@ -19,24 +20,29 @@ public class CosmicKushRightclickedProcedure {
 	public static void execute(LevelAccessor world, double x, double y, double z, Entity entity) {
 		if (entity == null)
 			return;
-		if (entity instanceof ServerPlayer _ent) {
-			BlockPos _bpos = BlockPos.containing(x, y, z);
-			_ent.openMenu(new MenuProvider() {
-				@Override
-				public Component getDisplayName() {
-					return Component.literal("CosmicKushGUI");
-				}
+		if (world.getLevelData().getGameRules().getBoolean(TerribletwoModGameRules.TM_2_TRANSMUTATIONS_CHALLENGE_RUN) == false) {
+			if (entity instanceof ServerPlayer _ent) {
+				BlockPos _bpos = BlockPos.containing(x, y, z);
+				_ent.openMenu(new MenuProvider() {
+					@Override
+					public Component getDisplayName() {
+						return Component.literal("CosmicKushGUI");
+					}
 
-				@Override
-				public boolean shouldTriggerClientSideContainerClosingOnOpen() {
-					return false;
-				}
+					@Override
+					public boolean shouldTriggerClientSideContainerClosingOnOpen() {
+						return false;
+					}
 
-				@Override
-				public AbstractContainerMenu createMenu(int id, Inventory inventory, Player player) {
-					return new CosmicKushGUIMenu(id, inventory, new FriendlyByteBuf(Unpooled.buffer()).writeBlockPos(_bpos));
-				}
-			}, _bpos);
+					@Override
+					public AbstractContainerMenu createMenu(int id, Inventory inventory, Player player) {
+						return new CosmicKushGUIMenu(id, inventory, new FriendlyByteBuf(Unpooled.buffer()).writeBlockPos(_bpos));
+					}
+				}, _bpos);
+			}
+		} else if (world.getLevelData().getGameRules().getBoolean(TerribletwoModGameRules.TM_2_TRANSMUTATIONS_CHALLENGE_RUN) == true) {
+			if (entity instanceof Player _player && !_player.level().isClientSide())
+				_player.displayClientMessage(Component.literal("\u00A7oTransmutations are currently disabled. Turn off the tm2TransmutationsChallengeRun game rule to renable them."), false);
 		}
 	}
 }

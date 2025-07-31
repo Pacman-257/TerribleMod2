@@ -45,4 +45,5 @@ public class TerribletwoModPaintings {
 	public static final DeferredHolder<PaintingVariant, PaintingVariant> PEAR_PAINTING = REGISTRY.register("pear_painting", () -> new PaintingVariant(16, 16));
 	public static final DeferredHolder<PaintingVariant, PaintingVariant> GOD_OF_BASKETBALL_PAINTING = REGISTRY.register("god_of_basketball_painting", () -> new PaintingVariant(16, 32));
 	public static final DeferredHolder<PaintingVariant, PaintingVariant> LE_FISHE = REGISTRY.register("le_fishe", () -> new PaintingVariant(16, 16));
+	public static final DeferredHolder<PaintingVariant, PaintingVariant> SMALL_ARMS_PAINTING = REGISTRY.register("small_arms_painting", () -> new PaintingVariant(80, 80));
 }

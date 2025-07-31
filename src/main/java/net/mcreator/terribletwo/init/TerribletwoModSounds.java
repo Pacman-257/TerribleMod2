@@ -175,4 +175,5 @@ public class TerribletwoModSounds {
 	public static final DeferredHolder<SoundEvent, SoundEvent> SPRUNG = REGISTRY.register("sprung", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("terribletwo", "sprung")));
 	public static final DeferredHolder<SoundEvent, SoundEvent> LOSTHAVEN = REGISTRY.register("losthaven", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("terribletwo", "losthaven")));
 	public static final DeferredHolder<SoundEvent, SoundEvent> SHIADEATH = REGISTRY.register("shiadeath", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("terribletwo", "shiadeath")));
+	public static final DeferredHolder<SoundEvent, SoundEvent> WEEZER = REGISTRY.register("weezer", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("terribletwo", "weezer")));
 }
