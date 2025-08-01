@@ -4,10 +4,9 @@ license="Public Domain"
 
 [[mods]]
 modId="terribletwo"
-version="1.1"
+version="1.1.1"
 displayName="Terrible Mod 2"
 displayURL="https://www.twitter.com/257Pacman"
-logoFile="logo.png"
 credits="Desdinova & Fulcanelli"
 authors="Desdinova & Fulcanelli"
 description="This is getting out of hand, now there are 2 of them."

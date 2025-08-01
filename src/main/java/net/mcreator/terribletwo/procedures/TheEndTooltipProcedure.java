@@ -37,7 +37,6 @@ public class TheEndTooltipProcedure {
 				tooltip.add(1, Component.literal("\u00A7nTerrible Mod 2 - \u00A7oMade in MCreator."));
 				tooltip.add(2, Component.literal("\u00A7lDesdinova \u00A7r- \u00A7oCoding, implementation, & spritework"));
 				tooltip.add(3, Component.literal("\u00A7lFulcanelli \u00A7r- \u00A7oWriting, most audio work, LowTierGod code, voice of the Wizard & Elves."));
-				tooltip.add(4, Component.literal("\u00A7lCbrauto \u00A7r- \u00A7oLil' Gray Alien & voice of Athletic Steve"));
 			} else {
 				tooltip.add(Component.literal("\u00A7oPress SHIFT to see credits."));
 			}

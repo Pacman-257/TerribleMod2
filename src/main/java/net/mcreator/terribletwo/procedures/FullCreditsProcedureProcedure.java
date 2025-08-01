@@ -15,15 +15,15 @@ public class FullCreditsProcedureProcedure {
 		if (entity instanceof Player _player && !_player.level().isClientSide())
 			_player.displayClientMessage(Component.literal("\u00A7lFulcanelli \u00A7r- \u00A7oWriting, most audio work, LowTierGod code, voice of the Wizard & Elves."), false);
 		if (entity instanceof Player _player && !_player.level().isClientSide())
+			_player.displayClientMessage(Component.literal("\u00A7n-Special Thanks-"), false);
+		if (entity instanceof Player _player && !_player.level().isClientSide())
 			_player.displayClientMessage(Component.literal("\u00A7lCbrauto \u00A7r- \u00A7oLil' Gray Alien & voice of Athletic Steve"), false);
 		if (entity instanceof Player _player && !_player.level().isClientSide())
-			_player.displayClientMessage(Component.literal("\u00A7n-Special Thanks-"), false);
+			_player.displayClientMessage(Component.literal("\u00A7lBuffMordo \u00A7r- \u00A7oPear paintings & Weezer music disc."), false);
 		if (entity instanceof Player _player && !_player.level().isClientSide())
 			_player.displayClientMessage(Component.literal("\u00A7lTurtle_Licker \u00A7r- \u00A7oIdeas for Gojo & Terrible Mod 1 Guff"), false);
 		if (entity instanceof Player _player && !_player.level().isClientSide())
 			_player.displayClientMessage(Component.literal("\u00A7lHeretic Hunter \u00A7r- \u00A7oJohn Adams painting."), false);
-		if (entity instanceof Player _player && !_player.level().isClientSide())
-			_player.displayClientMessage(Component.literal("\u00A7lBuffMordo \u00A7r- \u00A7oPear paintings."), false);
 		if (entity instanceof Player _player && !_player.level().isClientSide())
 			_player.displayClientMessage(Component.literal("\u00A7lFrost_Beer \u00A7r- \u00A7oVatican City model."), false);
 		if (entity instanceof Player _player && !_player.level().isClientSide())

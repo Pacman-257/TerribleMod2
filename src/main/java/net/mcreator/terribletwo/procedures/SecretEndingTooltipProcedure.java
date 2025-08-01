@@ -37,11 +37,11 @@ public class SecretEndingTooltipProcedure {
 				tooltip.add(1, Component.literal("\u00A7nTerrible Mod 2 - \u00A7oMade in MCreator."));
 				tooltip.add(2, Component.literal("\u00A7lDesdinova \u00A7r- \u00A7oCoding, implementation, & spritework"));
 				tooltip.add(3, Component.literal("\u00A7lFulcanelli \u00A7r- \u00A7oWriting, most audio work, LowTierGod code, voice of the Wizard & Elves."));
-				tooltip.add(4, Component.literal("\u00A7lCbrauto \u00A7r- \u00A7oLil' Gray Alien & voice of Athletic Steve"));
-				tooltip.add(5, Component.literal("\u00A7n-Special Thanks-"));
-				tooltip.add(6, Component.literal("\u00A7lTurtle_Licker \u00A7r- \u00A7oIdeas for Gojo & Terrible Mod 1 Guff"));
-				tooltip.add(7, Component.literal("\u00A7lHeretic Hunter \u00A7r- \u00A7oJohn Adams painting."));
-				tooltip.add(8, Component.literal("\u00A7lBuffMordo \u00A7r- \u00A7oPear paintings."));
+				tooltip.add(4, Component.literal("\u00A7n-Special Thanks-"));
+				tooltip.add(5, Component.literal("\u00A7lCbrauto \u00A7r- \u00A7oLil' Gray Alien & voice of Athletic Steve"));
+				tooltip.add(6, Component.literal("\u00A7lBuffMordo \u00A7r- \u00A7oPear paintings & Weezer music disc."));
+				tooltip.add(7, Component.literal("\u00A7lTurtle_Licker \u00A7r- \u00A7oIdeas for Gojo & Terrible Mod 1 Guff"));
+				tooltip.add(8, Component.literal("\u00A7lHeretic Hunter \u00A7r- \u00A7oJohn Adams painting."));
 				tooltip.add(9, Component.literal("\u00A7lFrost_Beer \u00A7r- \u00A7oVatican City model."));
 				tooltip.add(10, Component.literal("\u00A7lImNotaCausalty & ItsJim \u00A7r- \u00A7oMaking me find MCreator"));
 				tooltip.add(11, Component.literal("\u00A7oVarious PlanetMinecraft & Skindex users, The MCreator Forums."));
