@@ -59,18 +59,20 @@ public class MarkiplierEntity extends TamableAnimal {
 		this.goalSelector.addGoal(1, new FollowOwnerGoal(this, 1, (float) 10, (float) 2, false));
 		this.targetSelector.addGoal(2, new OwnerHurtTargetGoal(this));
 		this.goalSelector.addGoal(3, new OwnerHurtByTargetGoal(this));
-		this.goalSelector.addGoal(4, new PanicGoal(this, 1.2));
-		this.goalSelector.addGoal(5, new AvoidEntityGoal<>(this, MarketPlierEntity.class, (float) 80, 3, 3));
-		this.goalSelector.addGoal(6, new AvoidEntityGoal<>(this, FreddyFazbearEntity.class, (float) 80, 3, 3));
-		this.goalSelector.addGoal(7, new AvoidEntityGoal<>(this, BonnieEntity.class, (float) 80, 3, 3));
-		this.goalSelector.addGoal(8, new AvoidEntityGoal<>(this, ChicaEntity.class, (float) 80, 3, 3));
-		this.goalSelector.addGoal(9, new AvoidEntityGoal<>(this, FoxyEntity.class, (float) 80, 3, 3));
-		this.goalSelector.addGoal(10, new AvoidEntityGoal<>(this, HyperRealisticFreddyFazbearEntity.class, (float) 80, 3, 3));
-		this.targetSelector.addGoal(11, new HurtByTargetGoal(this).setAlertOthers());
-		this.goalSelector.addGoal(12, new RandomStrollGoal(this, 1));
-		this.targetSelector.addGoal(13, new HurtByTargetGoal(this));
-		this.goalSelector.addGoal(14, new RandomLookAroundGoal(this));
-		this.goalSelector.addGoal(15, new FloatGoal(this));
+		this.goalSelector.addGoal(4, new AvoidEntityGoal<>(this, MarketPlierEntity.class, (float) 80, 3, 3));
+		this.goalSelector.addGoal(5, new AvoidEntityGoal<>(this, FreddyFazbearEntity.class, (float) 80, 3, 3));
+		this.goalSelector.addGoal(6, new AvoidEntityGoal<>(this, BonnieEntity.class, (float) 80, 3, 3));
+		this.goalSelector.addGoal(7, new AvoidEntityGoal<>(this, ChicaEntity.class, (float) 80, 3, 3));
+		this.goalSelector.addGoal(8, new AvoidEntityGoal<>(this, FoxyEntity.class, (float) 80, 3, 3));
+		this.goalSelector.addGoal(9, new AvoidEntityGoal<>(this, HyperRealisticFreddyFazbearEntity.class, (float) 80, 3, 3));
+		this.goalSelector.addGoal(10, new AvoidEntityGoal<>(this, GoldenFreddyEntity.class, (float) 80, 3, 3));
+		this.goalSelector.addGoal(11, new AvoidEntityGoal<>(this, SpringtrapEntity.class, (float) 80, 3, 3));
+		this.goalSelector.addGoal(12, new PanicGoal(this, 1.2));
+		this.targetSelector.addGoal(13, new HurtByTargetGoal(this).setAlertOthers());
+		this.goalSelector.addGoal(14, new RandomStrollGoal(this, 1));
+		this.targetSelector.addGoal(15, new HurtByTargetGoal(this));
+		this.goalSelector.addGoal(16, new RandomLookAroundGoal(this));
+		this.goalSelector.addGoal(17, new FloatGoal(this));
 	}
 
 	@Override

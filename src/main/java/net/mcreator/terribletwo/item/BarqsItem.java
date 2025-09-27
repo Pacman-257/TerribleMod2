@@ -20,7 +20,7 @@ import java.util.List;
 
 public class BarqsItem extends Item {
 	public BarqsItem() {
-		super(new Item.Properties().stacksTo(1).rarity(Rarity.RARE).food((new FoodProperties.Builder()).nutrition(20).saturationModifier(0f).alwaysEdible().build()));
+		super(new Item.Properties().stacksTo(16).rarity(Rarity.RARE).food((new FoodProperties.Builder()).nutrition(20).saturationModifier(0f).alwaysEdible().build()));
 	}
 
 	@Override

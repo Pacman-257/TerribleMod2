@@ -6,6 +6,7 @@ import net.neoforged.neoforge.event.entity.SpawnPlacementRegisterEvent;
 import net.minecraft.world.phys.Vec3;
 import net.minecraft.world.level.Level;
 import net.minecraft.world.entity.monster.Monster;
+import net.minecraft.world.entity.ai.goal.target.NearestAttackableTargetGoal;
 import net.minecraft.world.entity.ai.goal.target.HurtByTargetGoal;
 import net.minecraft.world.entity.ai.goal.RandomStrollGoal;
 import net.minecraft.world.entity.ai.goal.RandomLookAroundGoal;
@@ -41,10 +42,19 @@ public class WilliamAfton3Entity extends Monster {
 				return this.isTimeToAttack() && this.mob.distanceToSqr(entity) < (this.mob.getBbWidth() * this.mob.getBbWidth() + entity.getBbWidth()) && this.mob.getSensing().hasLineOfSight(entity);
 			}
 		});
-		this.goalSelector.addGoal(2, new RandomStrollGoal(this, 1));
-		this.targetSelector.addGoal(3, new HurtByTargetGoal(this));
-		this.goalSelector.addGoal(4, new RandomLookAroundGoal(this));
-		this.goalSelector.addGoal(5, new FloatGoal(this));
+		this.targetSelector.addGoal(2, new NearestAttackableTargetGoal(this, PeashooterEntity.class, false, false));
+		this.targetSelector.addGoal(3, new NearestAttackableTargetGoal(this, MarkiplierEntity.class, false, false));
+		this.targetSelector.addGoal(4, new NearestAttackableTargetGoal(this, FreddyFazbearEntity.class, false, false));
+		this.targetSelector.addGoal(5, new NearestAttackableTargetGoal(this, HyperRealisticFreddyFazbearEntity.class, false, false));
+		this.targetSelector.addGoal(6, new NearestAttackableTargetGoal(this, ChicaEntity.class, false, false));
+		this.targetSelector.addGoal(7, new NearestAttackableTargetGoal(this, BonnieEntity.class, false, false));
+		this.targetSelector.addGoal(8, new NearestAttackableTargetGoal(this, FoxyEntity.class, false, false));
+		this.targetSelector.addGoal(9, new NearestAttackableTargetGoal(this, GoldenFreddyEntity.class, false, false));
+		this.targetSelector.addGoal(10, new NearestAttackableTargetGoal(this, SpringtrapEntity.class, false, false));
+		this.goalSelector.addGoal(11, new RandomStrollGoal(this, 1));
+		this.targetSelector.addGoal(12, new HurtByTargetGoal(this));
+		this.goalSelector.addGoal(13, new RandomLookAroundGoal(this));
+		this.goalSelector.addGoal(14, new FloatGoal(this));
 	}
 
 	@Override

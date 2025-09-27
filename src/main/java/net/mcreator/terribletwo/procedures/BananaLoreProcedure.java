@@ -1,10 +1,14 @@
 package net.mcreator.terribletwo.procedures;
 
+import net.neoforged.neoforge.items.ItemHandlerHelper;
+
 import net.minecraft.world.level.LevelAccessor;
+import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.network.chat.Component;
 
+import net.mcreator.terribletwo.init.TerribletwoModItems;
 import net.mcreator.terribletwo.TerribletwoMod;
 
 public class BananaLoreProcedure {
@@ -28,6 +32,15 @@ public class BananaLoreProcedure {
 		TerribletwoMod.queueServerWork(340, () -> {
 			if (entity instanceof Player _player && !_player.level().isClientSide())
 				_player.displayClientMessage(Component.literal("\u00A7oThis would go on to be known as Frozen Ape Theory."), false);
+		});
+		TerribletwoMod.queueServerWork(440, () -> {
+			if (entity instanceof Player _player && !_player.level().isClientSide())
+				_player.displayClientMessage(Component.literal("\u00A7oYou can have a look at what the actual theory is with this."), false);
+			if (entity instanceof Player _player) {
+				ItemStack _setstack = new ItemStack(TerribletwoModItems.FROZEN_APE.get()).copy();
+				_setstack.setCount(1);
+				ItemHandlerHelper.giveItemToPlayer(_player, _setstack);
+			}
 		});
 	}
 }

@@ -69,10 +69,12 @@ public class MarketPlierEntity extends Monster {
 		this.targetSelector.addGoal(8, new NearestAttackableTargetGoal(this, ChicaEntity.class, false, false));
 		this.targetSelector.addGoal(9, new NearestAttackableTargetGoal(this, FoxyEntity.class, false, false));
 		this.targetSelector.addGoal(10, new NearestAttackableTargetGoal(this, HyperRealisticFreddyFazbearEntity.class, false, false));
-		this.goalSelector.addGoal(11, new RandomStrollGoal(this, 1));
-		this.targetSelector.addGoal(12, new HurtByTargetGoal(this));
-		this.goalSelector.addGoal(13, new RandomLookAroundGoal(this));
-		this.goalSelector.addGoal(14, new FloatGoal(this));
+		this.targetSelector.addGoal(11, new NearestAttackableTargetGoal(this, GoldenFreddyEntity.class, false, false));
+		this.targetSelector.addGoal(12, new NearestAttackableTargetGoal(this, SpringtrapEntity.class, false, false));
+		this.goalSelector.addGoal(13, new RandomStrollGoal(this, 1));
+		this.targetSelector.addGoal(14, new HurtByTargetGoal(this));
+		this.goalSelector.addGoal(15, new RandomLookAroundGoal(this));
+		this.goalSelector.addGoal(16, new FloatGoal(this));
 	}
 
 	@Override

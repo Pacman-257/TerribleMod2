@@ -4,7 +4,6 @@ package net.mcreator.terribletwo.entity;
 import net.neoforged.neoforge.event.entity.SpawnPlacementRegisterEvent;
 
 import net.minecraft.world.phys.Vec3;
-import net.minecraft.world.level.levelgen.Heightmap;
 import net.minecraft.world.level.Level;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.entity.player.Player;
@@ -20,7 +19,6 @@ import net.minecraft.world.entity.ai.goal.FollowMobGoal;
 import net.minecraft.world.entity.ai.goal.FloatGoal;
 import net.minecraft.world.entity.ai.attributes.Attributes;
 import net.minecraft.world.entity.ai.attributes.AttributeSupplier;
-import net.minecraft.world.entity.SpawnPlacementTypes;
 import net.minecraft.world.entity.Mob;
 import net.minecraft.world.entity.LivingEntity;
 import net.minecraft.world.entity.EquipmentSlot;
@@ -28,13 +26,11 @@ import net.minecraft.world.entity.EntityType;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.damagesource.DamageTypes;
 import net.minecraft.world.damagesource.DamageSource;
-import net.minecraft.tags.BlockTags;
 import net.minecraft.sounds.SoundEvent;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.core.registries.BuiltInRegistries;
 
 import net.mcreator.terribletwo.init.TerribletwoModItems;
-import net.mcreator.terribletwo.init.TerribletwoModEntities;
 
 public class NapoleonicSoldierLTGEntity extends Monster implements RangedAttackMob {
 	public NapoleonicSoldierLTGEntity(EntityType<NapoleonicSoldierLTGEntity> type, Level world) {
@@ -117,8 +113,6 @@ public class NapoleonicSoldierLTGEntity extends Monster implements RangedAttackM
 	}
 
 	public static void init(SpawnPlacementRegisterEvent event) {
-		event.register(TerribletwoModEntities.NAPOLEONIC_SOLDIER_LTG.get(), SpawnPlacementTypes.ON_GROUND, Heightmap.Types.MOTION_BLOCKING_NO_LEAVES,
-				(entityType, world, reason, pos, random) -> (world.getBlockState(pos.below()).is(BlockTags.ANIMALS_SPAWNABLE_ON) && world.getRawBrightness(pos, 0) > 8), SpawnPlacementRegisterEvent.Operation.REPLACE);
 	}
 
 	public static AttributeSupplier.Builder createAttributes() {

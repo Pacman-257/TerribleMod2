@@ -341,7 +341,7 @@ public class TerribletwoModEntities {
 	public static final DeferredHolder<EntityType<?>, EntityType<GrenadeExplosionEntity>> GRENADE_EXPLOSION = register("grenade_explosion",
 			EntityType.Builder.<GrenadeExplosionEntity>of(GrenadeExplosionEntity::new, MobCategory.MISC).setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(1).sized(0.5f, 0.5f));
 	public static final DeferredHolder<EntityType<?>, EntityType<SantaEntity>> SANTA = register("santa",
-			EntityType.Builder.<SantaEntity>of(SantaEntity::new, MobCategory.MONSTER).setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3)
+			EntityType.Builder.<SantaEntity>of(SantaEntity::new, MobCategory.CREATURE).setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3)
 
 					.sized(0.6f, 1.8f));
 	public static final DeferredHolder<EntityType<?>, EntityType<BeenadeBeesEntity>> BEENADE_BEES = register("beenade_bees",
