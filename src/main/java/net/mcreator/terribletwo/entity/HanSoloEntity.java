@@ -88,11 +88,6 @@ public class HanSoloEntity extends Monster implements RangedAttackMob {
 		return super.getPassengerRidingPosition(entity).add(0, -0.35F, 0);
 	}
 
-	protected void dropCustomDeathLoot(DamageSource source, int looting, boolean recentlyHitIn) {
-		super.dropCustomDeathLoot(source, looting, recentlyHitIn);
-		this.spawnAtLocation(new ItemStack(TerribletwoModItems.DL_44.get()));
-	}
-
 	@Override
 	public SoundEvent getAmbientSound() {
 		return BuiltInRegistries.SOUND_EVENT.get(new ResourceLocation("terribletwo:hansoloalive"));

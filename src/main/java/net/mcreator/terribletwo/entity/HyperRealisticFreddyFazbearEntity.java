@@ -5,7 +5,6 @@ import net.neoforged.neoforge.event.entity.SpawnPlacementRegisterEvent;
 
 import net.minecraft.world.phys.Vec3;
 import net.minecraft.world.level.Level;
-import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.entity.monster.RangedAttackMob;
 import net.minecraft.world.entity.monster.Monster;
@@ -30,7 +29,6 @@ import net.minecraft.resources.ResourceLocation;
 import net.minecraft.core.registries.BuiltInRegistries;
 
 import net.mcreator.terribletwo.procedures.HyperRealisticFreddyFazbearEntityDiesProcedure;
-import net.mcreator.terribletwo.init.TerribletwoModItems;
 
 public class HyperRealisticFreddyFazbearEntity extends Monster implements RangedAttackMob {
 	private final ServerBossEvent bossInfo = new ServerBossEvent(this.getDisplayName(), ServerBossEvent.BossBarColor.RED, ServerBossEvent.BossBarOverlay.PROGRESS);
@@ -74,11 +72,6 @@ public class HyperRealisticFreddyFazbearEntity extends Monster implements Ranged
 	@Override
 	public Vec3 getPassengerRidingPosition(Entity entity) {
 		return super.getPassengerRidingPosition(entity).add(0, -0.35F, 0);
-	}
-
-	protected void dropCustomDeathLoot(DamageSource source, int looting, boolean recentlyHitIn) {
-		super.dropCustomDeathLoot(source, looting, recentlyHitIn);
-		this.spawnAtLocation(new ItemStack(TerribletwoModItems.FREDDY_CHESTPLATE_CHESTPLATE.get()));
 	}
 
 	@Override

@@ -7,7 +7,6 @@ import net.minecraft.world.phys.Vec3;
 import net.minecraft.world.level.levelgen.Heightmap;
 import net.minecraft.world.level.block.state.BlockState;
 import net.minecraft.world.level.Level;
-import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.entity.monster.Monster;
 import net.minecraft.world.entity.ai.goal.target.HurtByTargetGoal;
 import net.minecraft.world.entity.ai.goal.RandomStrollGoal;
@@ -32,7 +31,7 @@ import net.minecraft.resources.ResourceLocation;
 import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.core.BlockPos;
 
-import net.mcreator.terribletwo.init.TerribletwoModItems;
+import net.mcreator.terribletwo.procedures.SantaEntityDiesProcedure;
 import net.mcreator.terribletwo.init.TerribletwoModEntities;
 
 public class SantaEntity extends Monster {
@@ -65,11 +64,6 @@ public class SantaEntity extends Monster {
 		return super.getPassengerRidingPosition(entity).add(0, -0.35F, 0);
 	}
 
-	protected void dropCustomDeathLoot(DamageSource source, int looting, boolean recentlyHitIn) {
-		super.dropCustomDeathLoot(source, looting, recentlyHitIn);
-		this.spawnAtLocation(new ItemStack(TerribletwoModItems.CHRISTMAS_GUN.get()));
-	}
-
 	@Override
 	public SoundEvent getAmbientSound() {
 		return BuiltInRegistries.SOUND_EVENT.get(new ResourceLocation("terribletwo:santaliving"));
@@ -88,6 +82,12 @@ public class SantaEntity extends Monster {
 	@Override
 	public SoundEvent getDeathSound() {
 		return BuiltInRegistries.SOUND_EVENT.get(new ResourceLocation("terribletwo:santadeath"));
+	}
+
+	@Override
+	public void die(DamageSource source) {
+		super.die(source);
+		SantaEntityDiesProcedure.execute(this.level(), this.getX(), this.getY(), this.getZ());
 	}
 
 	@Override

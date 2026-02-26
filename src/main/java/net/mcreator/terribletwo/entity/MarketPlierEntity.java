@@ -36,7 +36,6 @@ import net.minecraft.core.registries.BuiltInRegistries;
 
 import net.mcreator.terribletwo.procedures.MarketPlierOnInitialEntitySpawnProcedure;
 import net.mcreator.terribletwo.procedures.MarketPlierEntityDiesProcedure;
-import net.mcreator.terribletwo.init.TerribletwoModItems;
 
 import javax.annotation.Nullable;
 
@@ -85,11 +84,6 @@ public class MarketPlierEntity extends Monster {
 	@Override
 	public Vec3 getPassengerRidingPosition(Entity entity) {
 		return super.getPassengerRidingPosition(entity).add(0, -0.35F, 0);
-	}
-
-	protected void dropCustomDeathLoot(DamageSource source, int looting, boolean recentlyHitIn) {
-		super.dropCustomDeathLoot(source, looting, recentlyHitIn);
-		this.spawnAtLocation(new ItemStack(TerribletwoModItems.LONGPLIER.get()));
 	}
 
 	@Override

@@ -34,7 +34,7 @@ public class GeckosEyeTooltipProcedure {
 			return;
 		if (itemstack.getItem() == TerribletwoModItems.GECKOS_EYE.get()) {
 			if (Screen.hasShiftDown()) {
-				tooltip.add(2, Component.literal("\u00A7oHolding this item in your main hand highlights entities & turns you invisible."));
+				tooltip.add(2, Component.literal("\u00A7oHolding this item in your main hand highlights entities, grants night vision, & turns you invisible."));
 			} else {
 				tooltip.add(Component.literal("\u00A7oPress SHIFT to see abilites."));
 			}

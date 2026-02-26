@@ -61,7 +61,7 @@ public record EmptyScrollScreenButtonMessage(int buttonID, int x, int y, int z) 
 			return;
 		if (buttonID == 0) {
 
-			EmptyScrollProcedureProcedure.execute(world, entity, guistate);
+			EmptyScrollProcedureProcedure.execute(world, x, y, z, entity, guistate);
 		}
 	}
 

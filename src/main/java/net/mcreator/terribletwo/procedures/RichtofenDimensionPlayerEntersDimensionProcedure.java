@@ -28,7 +28,11 @@ public class RichtofenDimensionPlayerEntersDimensionProcedure {
 		if (entity == null)
 			return;
 		double cshapespawn = 0;
-		cshapespawn = 0.12;
+		if (world.getLevelData().getGameRules().getBoolean(TerribletwoModGameRules.TM_2_C_SHAPE_FORCE_SPAWN) == true) {
+			cshapespawn = 1;
+		} else {
+			cshapespawn = 0.12;
+		}
 		if (!world.isClientSide()) {
 			{
 				Entity _ent = entity;

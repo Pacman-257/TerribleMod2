@@ -38,6 +38,7 @@ import net.minecraft.network.chat.Component;
 import net.minecraft.core.registries.BuiltInRegistries;
 
 import net.mcreator.terribletwo.procedures.TheVVizardOnInitialEntitySpawnProcedure;
+import net.mcreator.terribletwo.procedures.TheVVizardEntityDiesProcedure;
 import net.mcreator.terribletwo.init.TerribletwoModItems;
 import net.mcreator.terribletwo.init.TerribletwoModEntities;
 
@@ -91,11 +92,6 @@ public class TheVVizardEntity extends Monster implements RangedAttackMob {
 		return super.getPassengerRidingPosition(entity).add(0, -0.35F, 0);
 	}
 
-	protected void dropCustomDeathLoot(DamageSource source, int looting, boolean recentlyHitIn) {
-		super.dropCustomDeathLoot(source, looting, recentlyHitIn);
-		this.spawnAtLocation(new ItemStack(TerribletwoModItems.COSMIC_KUSH.get()));
-	}
-
 	@Override
 	public SoundEvent getAmbientSound() {
 		return BuiltInRegistries.SOUND_EVENT.get(new ResourceLocation("terribletwo:livew"));
@@ -121,6 +117,12 @@ public class TheVVizardEntity extends Monster implements RangedAttackMob {
 	@Override
 	public boolean ignoreExplosion(Explosion explosion) {
 		return true;
+	}
+
+	@Override
+	public void die(DamageSource source) {
+		super.die(source);
+		TheVVizardEntityDiesProcedure.execute(this.level(), this.getX(), this.getY(), this.getZ());
 	}
 
 	@Override

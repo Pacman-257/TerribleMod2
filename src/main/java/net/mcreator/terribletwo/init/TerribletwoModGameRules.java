@@ -20,6 +20,8 @@ public class TerribletwoModGameRules {
 	public static GameRules.Key<GameRules.BooleanValue> TM_2_TRANSMUTATIONS_CHALLENGE_RUN;
 	public static GameRules.Key<GameRules.BooleanValue> TM_2_OURPAL_HITSTOP;
 	public static GameRules.Key<GameRules.BooleanValue> TM_2_ATHLETIC_STEVE_SPAWNING;
+	public static GameRules.Key<GameRules.BooleanValue> TM_2_C_SHAPE_FORCE_SPAWN;
+	public static GameRules.Key<GameRules.BooleanValue> TM_2_LTG_CUTSCENE;
 
 	@SubscribeEvent
 	public static void registerGameRules(FMLCommonSetupEvent event) {
@@ -31,5 +33,7 @@ public class TerribletwoModGameRules {
 		TM_2_TRANSMUTATIONS_CHALLENGE_RUN = GameRules.register("tm2TransmutationsChallengeRun", GameRules.Category.PLAYER, GameRules.BooleanValue.create(false));
 		TM_2_OURPAL_HITSTOP = GameRules.register("tm2OurpalHitstop", GameRules.Category.PLAYER, GameRules.BooleanValue.create(false));
 		TM_2_ATHLETIC_STEVE_SPAWNING = GameRules.register("tm2AthleticSteveSpawning", GameRules.Category.PLAYER, GameRules.BooleanValue.create(true));
+		TM_2_C_SHAPE_FORCE_SPAWN = GameRules.register("tm2CShapeForceSpawn", GameRules.Category.PLAYER, GameRules.BooleanValue.create(false));
+		TM_2_LTG_CUTSCENE = GameRules.register("tm2LTGCutscene", GameRules.Category.PLAYER, GameRules.BooleanValue.create(true));
 	}
 }

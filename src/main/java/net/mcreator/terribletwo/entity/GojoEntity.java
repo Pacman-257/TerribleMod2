@@ -99,11 +99,6 @@ public class GojoEntity extends Monster implements RangedAttackMob {
 		return super.getPassengerRidingPosition(entity).add(0, -0.35F, 0);
 	}
 
-	protected void dropCustomDeathLoot(DamageSource source, int looting, boolean recentlyHitIn) {
-		super.dropCustomDeathLoot(source, looting, recentlyHitIn);
-		this.spawnAtLocation(new ItemStack(TerribletwoModItems.GOJO_BLINDFOLD_HELMET.get()));
-	}
-
 	@Override
 	public boolean causeFallDamage(float l, float d, DamageSource source) {
 		return false;
