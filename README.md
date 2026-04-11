@@ -1,6 +1,6 @@
 ![](https://media.forgecdn.net/attachments/description/null/description_bf1087e7-f608-4464-a20a-558f311f2fb4.png)
 
-## **Terrible Mod 2 is the sequel to [Terrible Mod]([https://www.curseforge.com/minecraft/mc-mods/terrible-mod-1](https://github.com/Pacman-257/TerribleModClassic)) \[unbeliveable\]**
+## **Terrible Mod 2 is the sequel to [Terrible Mod](https://www.curseforge.com/minecraft/mc-mods/terrible-mod-1](https://github.com/Pacman-257/TerribleModClassic) \[unbeliveable\]**
 
 *   Made in MCreator over the span of a year and a half.
 *   Created by Desdinova & Fulcanelli.
