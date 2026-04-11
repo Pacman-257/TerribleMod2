@@ -9,7 +9,7 @@
 
 ***
 
-### __~Additions~__
+### __Additions__
 
 *   112 items
 *   51 advancements
@@ -25,7 +25,7 @@
 
 ***
 
-### __~Special Features~__
+### __Special Features__
 
 **Transmutation Table**
 
@@ -37,7 +37,7 @@ Additionally to go along with this feature is a gamerule that enables a challeng
 
 ***
 
-### __~Animated Textures~__
+### __Animated Textures__
 
 ![](https://media.forgecdn.net/attachments/description/1111331/description_4b92ad2e-c34c-43e3-a089-4cd4753a9d5d.gif)![](https://media.forgecdn.net/attachments/description/null/description_f78e83b7-2d9e-4b21-9dd5-b6f1ce8cb71b.gif)
 
@@ -45,7 +45,7 @@ A decent amount of the textures in Terrible Mod 2 are animated.
 
 ***
 
-### __~Resource Pack~__
+### __Resource Pack__
 
 ![Title Screen](https://media.forgecdn.net/attachments/description/1111331/description_9332a635-09fa-4fb1-aa12-3c6981c5ebeb.png)
 
